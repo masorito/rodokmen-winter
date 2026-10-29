@@ -18,22 +18,22 @@
 # Neznámý otec nemanželského dítěte: dict(n="otec neuveden", st="unk", f=[], note="…")
 
 P = {
-    1: dict(n="Hildegard Winterová", y="* 1909", st="fam", sex="F",
+    1: dict(n="Hildegard Winterová", y="* 1909", st="doc", sex="F", r=["podmokly_scitani_1921_cp332_winter"],
             f=["* 14. 6. 1909 Bodenbach (Podmokly)", "× před 1934 ? Elias (křestní jméno neznámé)",
                "cukrářka, podnikatelka", "1934 povolení k cukrářskému provozu v čp. 332/333 a koncese k podávání nápojů v čp. 332 (jako Hildegard Elias)",
                "1921 bydliště Bodenbach, Bahnhofstraße čp. 332"],
             note="Výchozí osoba stromu (aby šly sledovat obě linie – Winterovi i Schwarzovi). Varianty: Hilda, Hildegarda Eliasová. Údaje ze sčítání 1921 (přepis) a od archivního historika – zatím neověřeno v matrice. Datum a místo úmrtí neznámé."),
-    2: dict(n="Rudolf Winter", y="1874–1926", st="doc", r=["prunerov_krest_rudolf_winter_1874"],
+    2: dict(n="Rudolf Winter", y="1874–1926", st="doc", r=["prunerov_krest_rudolf_winter_1874", "podmokly_scitani_1921_cp332_winter"],
             f=["* 15. 5. 1874 Prunéřov (Brunnersdorf) čp. 119, pokřtěn 16. 5. 1874", "učení 15. 3. 1889 – 15. 3. 1892 v Kadani (Kaaden)",
                "cukrář, pekař, majitel kavárny", "1903 zakládá cukrářskou a pekařskou živnost v Bodenbachu, čp. 337",
                "1912 majitel čp. 332, žádost o koncesi kavárny", "1921 majitel domu čp. 333 (pekárna)",
                "× Franziska (Fanni) Schwarzová", "† 9. 8. 1926"],
             note="Narození doloženo matrikou (SOA Litoměřice, L123/6, snímek 140). Kmotrem byl jmenovec Rudolf Winter, cukrář v Bodenbachu (1874). Sčítání 1921: v Bodenbachu od 12. 1. 1903, domovská příslušnost Bodenbach, národnost německá, ř.-kat. Ostatní údaje od archivního historika. Příčina smrti (srdeční vada) podle historika – ověřit v matrice zemřelých. Na dopisním papíře 1923 „Gegründet 1865“ – nevysvětleno (předchůdce podniku?)."),
-    3: dict(n="Franziska Schwarzová", y="1870–?", st="fam",
-            f=["* 25. 4. 1870 „Parchau, Tepl“ (přepis sčítání 1921 – obec neidentifikována)",
+    3: dict(n="Franziska Schwarzová", y="1870–?", st="doc", r=["podmokly_scitani_1921_cp332_winter"],
+            f=["* 25. 4. 1870, okres Teplá (obec nejistá: Prosau/Mrázov nebo Royau/Rájov)",
                "× Rudolf Winter", "1921 Bodenbach, Bahnhofstraße čp. 332", "po smrti manžela vedla podnik"],
             # sčítání 1921 (snímek od uživatele): v Bodenbachu od 12. 1. 1903 jako Rudolf; rodiště psané kurentem, čtení zatím nejisté
-            note="Varianty: Fanni, Franziska Winter. Rodiště „Parchau, Tepl“ je z genealogického přepisu sčítání – nutno ověřit na originálním archu. Datum úmrtí neznámé."),
+            note="Varianty: Fanni, Franziska Winter. Originál sčítání 1921 (SOkA Děčín): * 25. 4. 1870, rodiště v okrese Teplá psané kurentem – čtu „Prosau“ (Mrázov) nebo „Royau“ (Rájov); „Parchau“ z přepisu je zřejmě chybné čtení. V matrice narozených Prosau (Porta fontium, svaty-vojtech-06, sn. 14) mezi 8/1869 a 10/1870 nenalezena. Rodné příjmení Schwarz zatím jen z podkladů. Datum úmrtí neznámé."),
     4: dict(n="Josef Winter", y="* asi 1836", st="doc", r=["prunerov_krest_rudolf_winter_1874", "prunerov_snatek_josef_winter_marie_weigdorfer_1871"],
             f=["* asi 1836 Prunéřov (35 let při sňatku)", "obuvnický mistr (Schuhmachermeister) v Prunéřově čp. 119 (1871, 1874)", "× 13. 11. 1871 Prunéřov Marie Weigdörferová"],
             note="Otec Rudolfa. Křest (asi 1836) a úmrtí zatím nehledány."),

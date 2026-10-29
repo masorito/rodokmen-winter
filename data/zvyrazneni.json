@@ -22,5 +22,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "podmokly_scitani_1921_cp332_winter": {
+  "boxes": [
+   [
+    0.03,
+    0.36,
+    0.98,
+    0.66
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }
