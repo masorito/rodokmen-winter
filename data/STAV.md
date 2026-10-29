@@ -4,8 +4,8 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 ## Pro koho
-- Výchozí osoba: (doplnit – jméno, rok a místo narození)
-- Kdo s Claudem pracuje a jak chce komunikovat: (doplnit)
+- Výchozí osoba stromu: Hildegard Winterová (* 1909 Podmokly), dcera Rudolfa Wintera (* 1874 Prunéřov) a Fanni Schwarzové (* 1870). Výzkum vede rodina Rudolfa Wintera, cukráře v Podmoklech.
+- Uživatel: Jan; chce důsledné rozlišení primárních a sekundárních pramenů, zvláštní důraz na osudy rodiny 1938–1945 a po 1945.
 
 ## Kde co je
 | Soubor | Obsah |
@@ -34,4 +34,4 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- (zatím nic)
+- Čeká se na povolení sítě k archivům (SOA Litoměřice). Další krok: křest Rudolfa 15. 5. 1874 Prunéřov, pak sňatek Rudolf × Fanni, křest Hildegardy 1909 Podmokly.
