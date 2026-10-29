@@ -8,5 +8,5 @@ Tohle je projekt rodokmenu vedený skillem **rodokmen**. Na začátku každé ko
 
 ## Prostředí (cloud, claude.ai)
 - Linux, ImageMagick 6 (`convert`, nástroje ho použijí samy), Python 3.13, Node 22.
-- Kontejner je dočasný: po každém větším kroku uložit do gitu a odeslat do vzdáleného repozitáře (až bude nastavený).
-- Síťová politika prostředí zatím blokuje archivy (ARON aj. → 403). Je třeba povolit domény v nastavení prostředí.
+- Kontejner je dočasný: po každém větším kroku `git commit` a `git push` do https://github.com/masorito/rodokmen-winter (větev main). `pracovni/` se neukládá (stažené snímky – lze znovu stáhnout).
+- Síť: SOA Litoměřice (digi.soalitomerice.cz) a Porta fontium fungují. Badatelnu Litoměřice ovládat headless Playwrightem (viz poznamky_pro_skill.md); WebFetch je blokovaný, curl funguje.
