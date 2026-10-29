@@ -34,4 +34,4 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Čeká se na povolení sítě k archivům (SOA Litoměřice). Další krok: křest Rudolfa 15. 5. 1874 Prunéřov, pak sňatek Rudolf × Fanni, křest Hildegardy 1909 Podmokly.
+- Síť povolena. Hotovo: křest Rudolfa (L123/6, sn. 140). Další: sňatek rodičů Josef Winter × Marie Weigdörfer(?) v Prunéřově (cca 1855–1874), sňatek Rudolf × Fanni (Podmokly nebo její rodiště, cca 1895–1909), křest Hildegardy 1909 Podmokly, sčítání 1921 v badatelně (originál, citace). Badatelna SOA Litoměřice se ovládá headless prohlížečem (Playwright, skripty ve scratchpadu) – pozor na limit ~100 stránek.
