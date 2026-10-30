@@ -70,5 +70,17 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "podmokly_umrti_rudolf_winter_1926": {
+  "boxes": [
+   [
+    0.0,
+    0.61,
+    1.0,
+    0.8
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }
