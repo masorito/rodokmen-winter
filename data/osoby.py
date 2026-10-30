@@ -18,9 +18,10 @@
 # Neznámý otec nemanželského dítěte: dict(n="otec neuveden", st="unk", f=[], note="…")
 
 P = {
-    1: dict(n="Hildegard Winterová", y="* 1909", st="doc", sex="F", r=["podmokly_scitani_1921_cp332_winter"],
+    1: dict(n="Hildegard Winterová", y="* 1909", st="doc", sex="F", r=["podmokly_scitani_1921_cp332_winter", "podmokly_zivnost_hildegard_eliasova_1934"],
             f=["* 14. 6. 1909 Bodenbach (Podmokly)", "× před 1934 ? Elias (křestní jméno neznámé)",
                "cukrářka, podnikatelka", "1934 povolení k cukrářskému provozu v čp. 332/333 a koncese k podávání nápojů v čp. 332 (jako Hildegard Elias)",
+               "11. 7. 1934 živnostenský list – živnost cukrářská, Podmokly čp. 332 (jako Hildegard Eliasová)", "20. 11. 1942 cukrářská živnost odhlášena",
                "1921 bydliště Bodenbach, Bahnhofstraße čp. 332"],
             note="Výchozí osoba stromu (aby šly sledovat obě linie – Winterovi i Schwarzovi). Varianty: Hilda, Hildegarda Eliasová. Údaje ze sčítání 1921 (přepis) a od archivního historika – zatím neověřeno v matrice. Datum a místo úmrtí neznámé."),
     2: dict(n="Rudolf Winter", y="1874–1926", st="doc", r=["prunerov_krest_rudolf_winter_1874", "podmokly_scitani_1921_cp332_winter", "podmokly_zivnost_rudolf_winter_1903"],
