@@ -32,7 +32,7 @@ P = {
             note="Narození doloženo matrikou (SOA Litoměřice, L123/6, snímek 140). Kmotrem byl jmenovec Rudolf Winter, cukrář v Bodenbachu (1874). Sčítání 1921: v Bodenbachu od 12. 1. 1903, domovská příslušnost Bodenbach, národnost německá, ř.-kat. Ostatní údaje od archivního historika. Úmrtí a příčina (Herzklappenfehler) doloženy matrikou zemřelých Podmokly 133/132, sn. 218; tamtéž údaj o sňatku 8. 1. 1903 v Teplé. Na dopisním papíře 1923 „Gegründet 1865“ – nevysvětleno (předchůdce podniku?)."),
     3: dict(n="Franziska Schwarzová", y="* asi 1878", st="doc", r=["tepla_snatek_rudolf_winter_franziska_schwarz_1903", "podmokly_scitani_1921_cp332_winter", "podmokly_umrti_rudolf_winter_1926", "podmokly_snatek_franz_elias_hildegard_winter_1932"],
             f=["* 25. 4. asi 1878 Mrázov (Prosau) u Teplé, Mrázovský mlýn čp. 13 (24 let při sňatku 1903; sčítání 1921 „25. 4. 187?“)",
-               "× 8. 1. 1903 Teplá (kostel sv. Jiljí) Rudolf Winter", "1921 Bodenbach, Bahnhofstraße čp. 332", "po smrti manžela vedla podnik"],
+               "× 8. 1. 1903 Teplá (kostel sv. Jiljí) Rudolf Winter", "1921 Bodenbach, Bahnhofstraße čp. 332", "po smrti manžela vedla podnik", "24. 11. 1938 a 2/1939 majitelka domu čp. 332 (stavební spis)"],
             note="Varianty: Fanni, Franziska Winter. Originál sčítání 1921 (SOkA Děčín): * 25. 4. 1870, rodiště v okrese Teplá psané kurentem = „Prosau“ (Mrázov); potvrzeno oddacím zápisem dcery 1932: „Franziska geb. Schwarz aus Prosauer Mühle 13“. „Parchau“ z přepisu je chybné čtení. Rodné příjmení Schwarz doloženo oddacím zápisem 1932. V matrice narozených Prosau 8/1869–10/1870 není – odpovídá to sňatku 1903 (24 let → narozena asi 1878). Rodiče podle sňatku 1903: Johann Nepomuk Schwarz, měšťan a mlynářský mistr v Mrázovském mlýně čp. 13, a Aloisie roz. Wollrabová z Teplé čp. 28. Křest odkazem „Taufbuch Tom. XXII fol. 176“. Datum úmrtí neznámé."),
     4: dict(n="Josef Winter", y="* asi 1836", st="doc", r=["prunerov_krest_rudolf_winter_1874", "prunerov_snatek_josef_winter_marie_weigdorfer_1871"],
             f=["* asi 1836 Prunéřov (35 let při sňatku)", "obuvnický mistr (Schuhmachermeister) v Prunéřově čp. 119 (1871, 1874)", "× 13. 11. 1871 Prunéřov Marie Weitzdörferová"],
@@ -79,7 +79,7 @@ ISSUES = [
     ("Kolik dětí měli Franz a Hildegard Eliášovi?", "Otevřené: přípis zmiňuje „2. Gerda Elias, * 19. 1. 1942“ – první dítě zatím neznámé."),
     ("Proč stojí na dopisním papíře z roku 1923 „Gegründet 1865“?", "Hypotéza: při křtu 1874 byl kmotrem Rudolfův jmenovec Rudolf Winter, už tehdy cukrář v Bodenbachu – podnik mohl založit on (1865) a mladší Rudolf ho převzít. Ověřit."),
     ("Co se stalo s Fanni a Hildegardou po roce 1945?", "Otevřené: online nic; Hildegardina živnost odhlášena 20. 11. 1942, příjmení poněmčeno 1941 (Eliáš → Elias). Nutný dotaz SOkA Děčín (MNV/ONV, národní správa, odsun) a v Německu (Heimatkartei)."),
-    ("Kdy zemřela Franziska Winterová roz. Schwarzová?", "Otevřené: v Podmoklech do 1938 nezemřela (rejstřík zemřelých)."),
+    ("Kdy zemřela Franziska Winterová roz. Schwarzová?", "Otevřené: v únoru 1939 ještě žila a vlastnila dům čp. 332 (stavební spis); v Podmoklech do konce 1938 nezemřela."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):

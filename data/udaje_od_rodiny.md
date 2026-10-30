@@ -27,3 +27,13 @@ Zdroj: sekundární (archivní historik, genealogický přepis sčítání). Nic
 | Marie Müller | 24. 10. 1900 | Hermsdorf, Leitmeritz | služka? |
 | Gabriele Fleischhacker | 3. 2. 1903 | „Tylau, Moravia“ (?) | ? |
 Posledních šest osob nejsou prokázaní příbuzní – vedeme je jen jako osoby spojené s domem a podnikem.
+
+## Stavební spis domu čp. 332 (64 PDF od uživatele, 30. 10. 2026) – `dokumenty/stavebni_urad/`
+Kopie ze stavebního úřadu Děčín, 138 stran, 1880–1999. Přečteno zatím výběrově:
+- **28. 9. 1880** (soubor …03): žádost o adaptaci a dostavbu vyhořelého domu č. 39 ve Weiheru, patřícího dědicům zesnulé Emilie Zeischke (?), stavitel J. F. Diessl z Děčína; podpis „Fred Zeischke“ (?). Dům, z něhož se stalo čp. 332 – předchůdce Winterů.
+- **1912–1923**: žádosti Rudolfa Wintera (úpravy prodejny, kavárna); dopisní papír „Konditorei Rudolf Winter Café, Bodenbach, Bahnhofstraße“.
+- **19. 9. 1934**: koncesní dekret OÚ Děčín č. 46.992/34 pro Hildegard Eliášovou; **11. 3. 1935** povolení k užívání hostinských místností v čp. 332 (soubor …2C, č. 17), adresa „Podmokly 332“.
+- **24. 11. 1938**: Fanni Winter žádá o převzetí chodníku u domu čp. 332 obcí – podepsala sama „Fanni Winter“ (soubor …2F); **30. 1. 1939** Stadtamt Bodenbach to potvrzuje „Fanni Winter in Bodenbach NC. 332“ (…30, č. 18); příjem potvrdila 1. 2. 1939 za Fanni Winter prodavačka (podpis nečitelný, „Verkäuferin“). → **Fanni žila a vlastnila dům ještě v únoru 1939.**
+- **Mezera 1939–1954** – ve spisu nejsou dokumenty z války ani z let 1945–1953.
+- **5. 6. 1954** (…35): Děčínská strojírna n. p. žádá MNV Děčín o přidělení „bývalé cukrářské provozovny na Třídě čs. mládeže 332/47“ k přestavbě na byt. Dům tehdy spravuje stát (MNV, později Bytový podnik / Domovní správa č. 8) → **majetek Winterů byl po válce zestátněn (konfiskace / národní správa).**
+- 1957–1999: přidělování bytů, technické prohlídky, opravy (Bytový podnik města Děčína; 1993 Zdeněk Masojídek; 1999 MEA s. r. o.) – bez vztahu k rodině.
