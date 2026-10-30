@@ -1,19 +1,30 @@
 {
  "nazev": "Rodokmen Winterových",
- "popis": "",
+ "popis": "Rodokmen rodiny Rudolfa Wintera, cukráře a kavárníka v Podmoklech (Bodenbach)",
  "zapati": "Dohledáno v digitalizovaných matrikách státních oblastních archivů",
- "kontakt": {"jmeno": "", "email": ""},
+ "kontakt": {
+  "jmeno": "",
+  "email": ""
+ },
  "prihlaseni": {
   "uvod": "Tenhle web je jen pro rodinu a příbuzné.",
   "otazka": "",
   "odpoved": ""
  },
  "uvod": {
-  "nadpis": "",
-  "odstavce": [],
+  "nadpis": "Winterovi z Prunéřova a Podmokel",
+  "odstavce": [
+   "Rudolf Winter se narodil roku 1874 v Prunéřově u Kadaně v rodině obuvnického mistra. Vyučil se cukrářem, v lednu 1903 si v Teplé vzal Franzisku (Fanni) Schwarzovou z Mrázovského mlýna a o čtyři dny později spolu přišli do Podmokel, kde v březnu 1903 ohlásil cukrářskou živnost.",
+   "Z cukrárny v Nádražní ulici čp. 332 se stala kavárna. Po Rudolfově smrti v roce 1926 ji vedla Fanni a od roku 1934 dcera Hildegard, provdaná za cukráře Franze Eliáše. Živnost byla odhlášena v listopadu 1942. Co se s rodinou stalo po válce, zatím hledáme.",
+   "Každý údaj tady stojí na konkrétním zápisu z matriky, sčítání nebo živnostenského rejstříku – výřez originálu najdete u osoby."
+  ],
   "foto": "",
   "foto_popis": ""
  },
- "pribeh": {"menu": "", "rod": 8, "tlacitko": ""},
+ "pribeh": {
+  "menu": "",
+  "rod": 8,
+  "tlacitko": ""
+ },
  "zajimavosti_na_uvodu": []
 }

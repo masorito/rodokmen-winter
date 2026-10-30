@@ -67,7 +67,7 @@ SIDE = [
     dict(k=2, n="Florian Winter, kaplan v Teplé (1903)", t="Kaplan, který 8. 1. 1903 v Teplé oddával Rudolfa a Fanni. Shoda příjmení naznačuje příbuznost (bratr? bratranec?) – neprokázáno.", r=["tepla_snatek_rudolf_winter_franziska_schwarz_1903"]),
     dict(k=2, n="Isidor Weitzdörfer, hospodář v Prunéřově (1903)", t="Svědek na svatbě Rudolfa 1903; nejspíš příbuzný Rudolfovy matky Marie Weitzdörferové – vztah neprokázán.", r=["tepla_snatek_rudolf_winter_franziska_schwarz_1903"]),
     dict(k=1, n="Franz Robert Albin Eliáš (Elias) (* 1909)", t="Manžel Hildegardy, × 19. 5. 1932 Podmokly. Cukrář (Konditor), * 17. 7. 1909, příslušný do Podmokel, bytem Podmokly čp. 576; křest v matrice Altstadt sv. VII, fol. 145. Syn Franze Eliáše, ředitele továrny (Fabriksdirektor), Podmokly čp. 576, a Anny Wilhelminy roz. Prantschové (?). Od 1941 úředně „Elias“.", r=["podmokly_snatek_franz_elias_hildegard_winter_1932"]),
-    dict(k=1, n="Gerda Elias (* 1942)", t="Dcera Franze a Hildegardy, * 19. 1. 1942 (přípis v oddacím zápisu rodičů). Označena jako „2.“ – zřejmě druhé dítě. Může žít – údaje jen základní.", r=["podmokly_snatek_franz_elias_hildegard_winter_1932"]),
+    dict(k=1, n="Gerda Elias (* 1942)", t="Dcera Franze a Hildegardy (přípis v oddacím zápisu rodičů), označena jako „2.“ – zřejmě druhé dítě. Může žít – údaje jen základní.", r=["podmokly_snatek_franz_elias_hildegard_winter_1932"]),
 ]
 
 # Rozpory a otevřené otázky (na web do „Co hledáme“) jako dvojice (otázka, odpověď). Odpověď začněte

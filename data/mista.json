@@ -1,1 +1,36 @@
-{}
+{
+ "Prunéřov": {
+  "re": "Pruné|Brunnersdorf",
+  "dotaz": "Prunéřov, Kadaň",
+  "lat": 50.4297,
+  "lon": 13.2592,
+  "osm": "Prunéřov, Kadaň, okres Chomutov, Ústecký kraj, 431 58, Česko"
+ },
+ "Teplá": {
+  "re": "Tepl",
+  "dotaz": "Teplá, okres Cheb",
+  "lat": 49.9821,
+  "lon": 12.8633,
+  "osm": "Teplá, okres Cheb, Karlovarský kraj, 364 61, Česko"
+ },
+ "Mrázov": {
+  "re": "Mrázo|Prosau",
+  "dotaz": "Mrázov, Teplá",
+  "lat": 49.9617,
+  "lon": 12.8275,
+  "osm": "Mrázov, Teplá, okres Cheb, Karlovarský kraj, Česko"
+ },
+ "Podmokly": {
+  "re": "Podmok|Bodenbach",
+  "dotaz": "Podmokly, Děčín",
+  "lat": 50.7768,
+  "lon": 14.2031
+ },
+ "Kadaň": {
+  "re": "Kadaň",
+  "dotaz": "Kadaň, Česko",
+  "lat": 50.3762,
+  "lon": 13.271,
+  "osm": "Kadaň, okres Chomutov, Ústecký kraj, 432 01, Česko"
+ }
+}
