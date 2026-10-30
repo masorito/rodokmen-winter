@@ -34,4 +34,6 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Hotovo: křest Rudolfa 1874, sňatek rodičů 1871, sčítání 1921 (originál). Sňatek Rudolf × Fanni NENÍ v Podmoklech 1889–1912; křest Hildegardy NENÍ v řk. ani evang. matrice Podmokel 1909. Další: farnost Děčín (Tetschen) 1909, Rejstřík živností okr. Děčín, starší Rudolf Winter (cukrář 1874) – křest v Prunéřově. Badatelna: tools/soal_pw/.
+- Hotovo (30. 10. 2026): křest Rudolfa 1874; sňatek rodičů 1871 (Prunéřov); sňatek Rudolf × Fanni 8. 1. 1903 Teplá (rodiče Fanni: J. N. Schwarz, mlynář Prosauer Mühle 13, a Aloisie Wollrab); živnost 1903 (čp. 337); sčítání 1921; úmrtí Rudolfa 9. 8. 1926 (Herzklappenfehler); sňatek Hildegardy s Franzem Robertem Albinem Eliášem 19. 5. 1932 (Podmokly 133/123 fol. 220); dítě Gerda * 19. 1. 1942; živnost Hildegardy 11. 7. 1934 – odhlášena 20. 11. 1942.
+- Nenalezeno online: křest Fanni (Taufbuch Tom. XXII fol. 176 – kniha online není), křest Hildegardy (Altstadt-Weiher V/209) a Franze Eliáše (Altstadt VII/145), úmrtí Fanni (po 1938), osudy po 1945 → archivni_dotazy.md.
+- Další možné kroky online: Josef Winter * asi 1836 a sourozenci (starší Rudolf Winter, cukrář v Bodenbachu 1874) v L123/5 (sn. ~165–176); Johann Nep. Schwarz – sňatek s Aloisií Wollrab (Teplá, asi 1865–1878); rodiče Franze Eliáše; kavárenská koncese 1912. GEDCOM: vystupy/rodokmen_winter.ged (generuje tools/gedcom_winter.py).

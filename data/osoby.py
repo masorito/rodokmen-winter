@@ -78,7 +78,8 @@ ISSUES = [
     ("Jak se jmenoval manžel Hildegardy Winterové (Elias)?", "Vyřešeno: Franz Robert Albin Eliáš, cukrář, * 17. 7. 1909, sňatek 19. 5. 1932 v Podmoklech."),
     ("Kolik dětí měli Franz a Hildegard Eliášovi?", "Otevřené: přípis zmiňuje „2. Gerda Elias, * 19. 1. 1942“ – první dítě zatím neznámé."),
     ("Proč stojí na dopisním papíře z roku 1923 „Gegründet 1865“?", "Hypotéza: při křtu 1874 byl kmotrem Rudolfův jmenovec Rudolf Winter, už tehdy cukrář v Bodenbachu – podnik mohl založit on (1865) a mladší Rudolf ho převzít. Ověřit."),
-    ("Co se stalo s Fanni a Hildegardou po roce 1945?", "Otevřené: odsun, nebo zůstaly? Hledat v evidenci obyvatel a fondech národních výborů v SOkA Děčín."),
+    ("Co se stalo s Fanni a Hildegardou po roce 1945?", "Otevřené: online nic; Hildegardina živnost odhlášena 20. 11. 1942, příjmení poněmčeno 1941 (Eliáš → Elias). Nutný dotaz SOkA Děčín (MNV/ONV, národní správa, odsun) a v Německu (Heimatkartei)."),
+    ("Kdy zemřela Franziska Winterová roz. Schwarzová?", "Otevřené: v Podmoklech do 1938 nezemřela (rejstřík zemřelých)."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):

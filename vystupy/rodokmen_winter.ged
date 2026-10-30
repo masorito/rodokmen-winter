@@ -1,0 +1,202 @@
+0 HEAD
+1 SOUR rodokmen-winter
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 NOTE Rodokmen Winterových – jen údaje doložené prameny (S1–S8).
+0 @I1@ INDI
+1 NAME Hildegard /Winter/
+1 SEX F
+1 BIRT
+2 DATE 14 JUN 1909
+2 PLAC Bodenbach (Podmokly), Böhmen
+2 SOUR @S7@
+1 OCCU Konditorin (cukrářka), Gewerbe Podmokly čp. 332 1934–1942
+2 SOUR @S8@
+1 NOTE Po 1941 úředně Elias. Úmrtí neznámé.
+1 FAMS @F6@
+1 FAMC @F2@
+0 @I2@ INDI
+1 NAME Rudolf /Winter/
+1 SEX M
+1 BIRT
+2 DATE 15 MAY 1874
+2 PLAC Brunnersdorf (Prunéřov) čp. 119, Böhmen
+2 SOUR @S1@
+1 OCCU Konditor; živnost Bodenbach čp. 337 od 4. 3. 1903
+2 SOUR @S5@
+1 DEAT
+2 DATE 9 AUG 1926
+2 PLAC Bodenbach čp. 332
+2 NOTE Herzklappenfehler
+2 SOUR @S6@
+1 BURI
+2 DATE 12 AUG 1926
+2 PLAC Bodenbach
+2 SOUR @S6@
+1 FAMS @F2@
+1 FAMC @F1@
+0 @I3@ INDI
+1 NAME Franziska (Fanni) /Schwarz/
+1 SEX F
+1 BIRT
+2 DATE ABT 1878
+2 PLAC Prosauer Mühle čp. 13, Prosau (Mrázov), Bez. Tepl
+2 NOTE 24 let 1903; sčítání 1921: 25. 4. 187?
+2 SOUR @S3@
+1 NOTE Úmrtí po 1938 neznámé.
+1 FAMS @F2@
+1 FAMC @F5@
+0 @I4@ INDI
+1 NAME Josef /Winter/
+1 SEX M
+1 BIRT
+2 DATE ABT 1836
+2 PLAC Brunnersdorf
+2 SOUR @S2@
+1 OCCU Schuhmachermeister, Brunnersdorf čp. 119
+2 SOUR @S2@
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I5@ INDI
+1 NAME Marie /Weitzdörfer/
+1 SEX F
+1 BIRT
+2 DATE ABT 1842
+2 PLAC Brunnersdorf čp. 34
+2 SOUR @S2@
+1 FAMS @F1@
+1 FAMC @F4@
+0 @I6@ INDI
+1 NAME Johann Nepomuk /Schwarz/
+1 SEX M
+1 OCCU Müllermeister, Prosauer Mühle čp. 13
+2 SOUR @S3@
+1 FAMS @F5@
+0 @I7@ INDI
+1 NAME Aloisia /Wollrab/
+1 SEX F
+1 RESI
+2 PLAC Tepl čp. 28
+2 SOUR @S3@
+1 FAMS @F5@
+0 @I8@ INDI
+1 NAME Anton /Winter/
+1 SEX M
+1 OCCU Schuhmachermeister, Brunnersdorf čp. 119
+2 SOUR @S2@
+1 DEAT
+2 DATE BEF 13 NOV 1871
+2 SOUR @S2@
+1 FAMS @F3@
+0 @I9@ INDI
+1 NAME Johanna /Kunz/
+1 SEX F
+1 DEAT
+2 DATE BEF 13 NOV 1871
+2 NOTE rodné příjmení nejisté (Kunz/Kurz)
+2 SOUR @S2@
+1 FAMS @F3@
+0 @I10@ INDI
+1 NAME Wenzel /Weitzdörfer/
+1 SEX M
+1 OCCU Landwirt, Brunnersdorf čp. 34
+2 SOUR @S2@
+1 DEAT
+2 DATE BEF 13 NOV 1871
+2 SOUR @S2@
+1 FAMS @F4@
+0 @I11@ INDI
+1 NAME Katharina /Gschale/
+1 SEX F
+1 NOTE rodné příjmení nejisté (Gschale/Gschafe)
+1 FAMS @F4@
+0 @I12@ INDI
+1 NAME Franz Robert Albin /Eliáš/
+1 SEX M
+1 BIRT
+2 DATE 17 JUL 1909
+2 PLAC Bodenbach
+2 SOUR @S7@
+1 OCCU Konditor
+2 SOUR @S7@
+1 NOTE Od 1941 úředně Elias.
+1 FAMS @F6@
+1 FAMC @F7@
+0 @I13@ INDI
+1 NAME Franz /Eliáš/
+1 SEX M
+1 OCCU Fabriksdirektor, Bodenbach čp. 576
+2 SOUR @S7@
+1 FAMS @F7@
+0 @I14@ INDI
+1 NAME Anna Wilhelmine /Prantsch/
+1 SEX F
+1 NOTE rodné příjmení čteno nejistě
+1 FAMS @F7@
+0 @I15@ INDI
+1 NAME Gerda /Elias/
+1 SEX F
+1 BIRT
+2 DATE 19 JAN 1942
+2 NOTE přípis v oddacím zápisu rodičů
+2 SOUR @S7@
+1 FAMC @F6@
+0 @F1@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 MARR
+2 DATE 13 NOV 1871
+2 PLAC Brunnersdorf
+2 SOUR @S2@
+1 CHIL @I2@
+0 @F2@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 MARR
+2 DATE 8 JAN 1903
+2 PLAC Tepl, Dekanalkirche St. Aegidius
+2 SOUR @S3@
+1 CHIL @I1@
+0 @F3@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I4@
+0 @F4@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 CHIL @I5@
+0 @F5@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I3@
+0 @F6@ FAM
+1 HUSB @I12@
+1 WIFE @I1@
+1 MARR
+2 DATE 19 MAY 1932
+2 PLAC Bodenbach, Pfarrkirche
+2 SOUR @S7@
+1 CHIL @I15@
+0 @F7@ FAM
+1 HUSB @I13@
+1 WIFE @I14@
+1 CHIL @I12@
+0 @S1@ SOUR
+1 TITL SOA Litoměřice, Sbírka matrik, N Prunéřov 1852–1878, sign. L123/6, sn. 140
+0 @S2@ SOUR
+1 TITL SOA Litoměřice, Sbírka matrik, N O Z Prunéřov 1852–1881, sign. L123/8, sn. 39
+0 @S3@ SOUR
+1 TITL SOA Plzeň, Porta fontium, O Teplá-město 1873–1907 (tepla-mesto-34), sn. 163, fol. 160
+0 @S4@ SOUR
+1 TITL SOkA Děčín, NAD 804 Sčítání 1921, Podmokly čp. 301–370, sn. 140
+0 @S5@ SOUR
+1 TITL SOkA Děčín, NAD 962 OÚ Děčín, Rejstřík živností 1895–1924 (inv. č. 4), sn. 80, č. 92
+0 @S6@ SOUR
+1 TITL SOA Litoměřice, Sbírka matrik, Z Podmokly 1900–1938, sign. 133/132, sn. 218, pag. 427
+0 @S7@ SOUR
+1 TITL SOA Litoměřice, Sbírka matrik, O Podmokly 1926–1934, sign. 133/123, sn. 223, fol. 220, č. 21
+0 @S8@ SOUR
+1 TITL SOkA Děčín, NAD 962 OÚ Děčín, Rejstřík živností (inv. č. 15), sn. 29, č. 119
+0 TRLR
