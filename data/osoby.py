@@ -18,23 +18,22 @@
 # Neznámý otec nemanželského dítěte: dict(n="otec neuveden", st="unk", f=[], note="…")
 
 P = {
-    1: dict(n="Hildegard Winterová", y="* 1909", st="doc", sex="F", r=["podmokly_scitani_1921_cp332_winter", "podmokly_zivnost_hildegard_eliasova_1934"],
-            f=["* 14. 6. 1909 Bodenbach (Podmokly)", "× před 1934 ? Elias (křestní jméno neznámé)",
+    1: dict(n="Hildegard Winterová", y="* 1909", st="doc", sex="F", r=["podmokly_scitani_1921_cp332_winter", "podmokly_snatek_franz_elias_hildegard_winter_1932", "podmokly_zivnost_hildegard_eliasova_1934"],
+            f=["* 14. 6. 1909 Bodenbach (Podmokly); křest v matrice Altstadt-Weiher sv. V, fol. 209", "× 19. 5. 1932 Podmokly Franz Robert Albin Eliáš, cukrář", "1941 úřední změna příjmení Eliáš → Elias",
                "cukrářka, podnikatelka", "1934 povolení k cukrářskému provozu v čp. 332/333 a koncese k podávání nápojů v čp. 332 (jako Hildegard Elias)",
                "11. 7. 1934 živnostenský list – živnost cukrářská, Podmokly čp. 332 (jako Hildegard Eliasová)", "20. 11. 1942 cukrářská živnost odhlášena",
                "1921 bydliště Bodenbach, Bahnhofstraße čp. 332"],
-            note="Výchozí osoba stromu (aby šly sledovat obě linie – Winterovi i Schwarzovi). Varianty: Hilda, Hildegarda Eliasová. Údaje ze sčítání 1921 (přepis) a od archivního historika – zatím neověřeno v matrice. Datum a místo úmrtí neznámé."),
+            note="Výchozí osoba stromu (aby šly sledovat obě linie – Winterovi i Schwarzovi). Varianty: Hilda, Hildegarda Eliášová / Eliasová, Hildegard Elias. Narození a rodiče doloženy sčítáním 1921 a oddacím zápisem 1932 (odkaz na křest: Altstadt Weiher V/209 – svazek zatím nenalezen). Povolení a koncese 1934 (1. 7. a 19. 11.) od archivního historika; živnostenský list 11. 7. 1934 doložen rejstříkem. Datum a místo úmrtí neznámé."),
     2: dict(n="Rudolf Winter", y="1874–1926", st="doc", r=["prunerov_krest_rudolf_winter_1874", "podmokly_scitani_1921_cp332_winter", "podmokly_zivnost_rudolf_winter_1903"],
             f=["* 15. 5. 1874 Prunéřov (Brunnersdorf) čp. 119, pokřtěn 16. 5. 1874", "učení 15. 3. 1889 – 15. 3. 1892 v Kadani (Kaaden)",
                "cukrář, pekař, majitel kavárny", "4. 3. 1903 ohlášena cukrářská živnost (Conditorgewerbe) v Bodenbachu čp. 337",
                "1912 majitel čp. 332, žádost o koncesi kavárny", "1921 majitel domu čp. 333 (pekárna)",
                "× Franziska (Fanni) Schwarzová", "† 9. 8. 1926"],
             note="Narození doloženo matrikou (SOA Litoměřice, L123/6, snímek 140). Kmotrem byl jmenovec Rudolf Winter, cukrář v Bodenbachu (1874). Sčítání 1921: v Bodenbachu od 12. 1. 1903, domovská příslušnost Bodenbach, národnost německá, ř.-kat. Ostatní údaje od archivního historika. Příčina smrti (srdeční vada) podle historika – ověřit v matrice zemřelých. Na dopisním papíře 1923 „Gegründet 1865“ – nevysvětleno (předchůdce podniku?)."),
-    3: dict(n="Franziska Schwarzová", y="1870–?", st="doc", r=["podmokly_scitani_1921_cp332_winter"],
-            f=["* 25. 4. 1870, okres Teplá (obec nejistá: Prosau/Mrázov nebo Royau/Rájov)",
+    3: dict(n="Franziska Schwarzová", y="1870–?", st="doc", r=["podmokly_scitani_1921_cp332_winter", "podmokly_snatek_franz_elias_hildegard_winter_1932"],
+            f=["* 25. 4. 1870 (sčítání 1921), Prosau (Mrázov) u Teplé – „Prosauer Mühle“ čp. 13 (oddací zápis dcery 1932)",
                "× Rudolf Winter", "1921 Bodenbach, Bahnhofstraße čp. 332", "po smrti manžela vedla podnik"],
-            # sčítání 1921 (snímek od uživatele): v Bodenbachu od 12. 1. 1903 jako Rudolf; rodiště psané kurentem, čtení zatím nejisté
-            note="Varianty: Fanni, Franziska Winter. Originál sčítání 1921 (SOkA Děčín): * 25. 4. 1870, rodiště v okrese Teplá psané kurentem – čtu „Prosau“ (Mrázov) nebo „Royau“ (Rájov); „Parchau“ z přepisu je zřejmě chybné čtení. V matrice narozených Prosau (Porta fontium, svaty-vojtech-06, sn. 14) mezi 8/1869 a 10/1870 nenalezena. Rodné příjmení Schwarz zatím jen z podkladů. Datum úmrtí neznámé."),
+            note="Varianty: Fanni, Franziska Winter. Originál sčítání 1921 (SOkA Děčín): * 25. 4. 1870, rodiště v okrese Teplá psané kurentem = „Prosau“ (Mrázov); potvrzeno oddacím zápisem dcery 1932: „Franziska geb. Schwarz aus Prosauer Mühle 13“. „Parchau“ z přepisu je chybné čtení. Rodné příjmení Schwarz doloženo oddacím zápisem 1932. V matrice narozených Prosau (Porta fontium, svaty-vojtech-06, sn. 14) mezi 8/1869 a 10/1870 nenalezena. Datum úmrtí neznámé."),
     4: dict(n="Josef Winter", y="* asi 1836", st="doc", r=["prunerov_krest_rudolf_winter_1874", "prunerov_snatek_josef_winter_marie_weigdorfer_1871"],
             f=["* asi 1836 Prunéřov (35 let při sňatku)", "obuvnický mistr (Schuhmachermeister) v Prunéřově čp. 119 (1871, 1874)", "× 13. 11. 1871 Prunéřov Marie Weigdörferová"],
             note="Otec Rudolfa. Křest (asi 1836) a úmrtí zatím nehledány."),
@@ -60,15 +59,17 @@ LINES = {
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
     dict(k=2, n="Rudolf Winter (cukrář v Bodenbachu 1874)", t="Kmotr (v zastoupení) Rudolfa Wintera 1874, uveden jako „Zuckerbäcker in Bodenbach“. Jmenovec, nejspíš příbuzný (strýc?) – vztah zatím neprokázán. Možné vysvětlení nápisu „Gegründet 1865“.", r=["prunerov_krest_rudolf_winter_1874"]),
-    dict(k=1, n="? Elias – manžel Hildegardy", t="Podle archivního historika českého původu; křestní jméno, narození a sňatek zatím neznámé. Sňatek pravděpodobně před 1. 7. 1934."),
+    dict(k=1, n="Franz Robert Albin Eliáš (Elias) (* 1909)", t="Manžel Hildegardy, × 19. 5. 1932 Podmokly. Cukrář (Konditor), * 17. 7. 1909, příslušný do Podmokel, bytem Podmokly čp. 576; křest v matrice Altstadt sv. VII, fol. 145. Syn Franze Eliáše, ředitele továrny (Fabriksdirektor), Podmokly čp. 576, a Anny Wilhelminy roz. Prantschové (?). Od 1941 úředně „Elias“.", r=["podmokly_snatek_franz_elias_hildegard_winter_1932"]),
+    dict(k=1, n="Gerda Elias (* 1942)", t="Dcera Franze a Hildegardy, * 19. 1. 1942 (přípis v oddacím zápisu rodičů). Označena jako „2.“ – zřejmě druhé dítě. Může žít – údaje jen základní.", r=["podmokly_snatek_franz_elias_hildegard_winter_1932"]),
 ]
 
 # Rozpory a otevřené otázky (na web do „Co hledáme“) jako dvojice (otázka, odpověď). Odpověď začněte
 # „Vyřešeno: …“ (na webu se skryje), „Hypotéza: …“ nebo „Otevřené: …“. Jde na web – nic citlivého.
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
-    ("Kde leží „Parchau, Tepl“, rodiště Fanni Schwarzové?", "Otevřené: přepis sčítání 1921; v soupisech obcí okresu Teplá zatím nenalezeno – ověřit originální arch sčítání."),
-    ("Jak se jmenoval manžel Hildegardy Winterové (Elias)?", "Otevřené: hledat oddací matriku Podmokel cca 1926–1934."),
+    ("Kde leží „Parchau, Tepl“, rodiště Fanni Schwarzové?", "Vyřešeno: Prosau = Mrázov u Teplé, mlýn čp. 13 (sčítání 1921 a oddací zápis dcery 1932). Křest 25. 4. 1870 v matrice Prosau zatím nenalezen."),
+    ("Jak se jmenoval manžel Hildegardy Winterové (Elias)?", "Vyřešeno: Franz Robert Albin Eliáš, cukrář, * 17. 7. 1909, sňatek 19. 5. 1932 v Podmoklech."),
+    ("Kolik dětí měli Franz a Hildegard Eliášovi?", "Otevřené: přípis zmiňuje „2. Gerda Elias, * 19. 1. 1942“ – první dítě zatím neznámé."),
     ("Proč stojí na dopisním papíře z roku 1923 „Gegründet 1865“?", "Hypotéza: při křtu 1874 byl kmotrem Rudolfův jmenovec Rudolf Winter, už tehdy cukrář v Bodenbachu – podnik mohl založit on (1865) a mladší Rudolf ho převzít. Ověřit."),
     ("Co se stalo s Fanni a Hildegardou po roce 1945?", "Otevřené: odsun, nebo zůstaly? Hledat v evidenci obyvatel a fondech národních výborů v SOkA Děčín."),
 ]
