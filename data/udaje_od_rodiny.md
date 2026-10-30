@@ -37,3 +37,25 @@ Kopie ze stavebního úřadu Děčín, 138 stran, 1880–1999. Přečteno zatím
 - **Mezera 1939–1954** – ve spisu nejsou dokumenty z války ani z let 1945–1953.
 - **5. 6. 1954** (…35): Děčínská strojírna n. p. žádá MNV Děčín o přidělení „bývalé cukrářské provozovny na Třídě čs. mládeže 332/47“ k přestavbě na byt. Dům tehdy spravuje stát (MNV, později Bytový podnik / Domovní správa č. 8) → **majetek Winterů byl po válce zestátněn (konfiskace / národní správa).**
 - 1957–1999: přidělování bytů, technické prohlídky, opravy (Bytový podnik města Děčína; 1993 Zdeněk Masojídek; 1999 MEA s. r. o.) – bez vztahu k rodině.
+
+### Stavební spis čp. 332 – úplný průchod (30. 10. 2026)
+Číslo v závorce = pořadí souboru (hex v názvu PDF → desítkově).
+**Předchůdci (dům č. 39 ve Weiheru = pozdější čp. 332):**
+- 1880 (3–8): dům č. 39 ve Weiheru vyhořel 28. 8. 1880; patří dědicům zesnulé **Emilie Zeischke** (kurátor Heinrich Graf), stavbu vede Friedrich (Fried.) Zeischke, stavitel Jos. Diessl z Děčína; přestavba na nájemní byty (pokoj + kuchyně); kolaudace 25. 6. 1881.
+- 1895 (9): Julius Ernst (?), Weiher č. 39 – stavební drobnost.
+- 1900 (10): August Fiedler, obchod s kůžemi v čp. 332.
+- 1901 (11–14): majitel domu = **dědicové J. H. Sonntaga**; Paul Kamprath z Lipska (zástupce Rudolf Kamprath) zřizuje výrobnu mýdel a parfémů (provoz do 1903).
+- 1904 (15–16): Robert Kürbiss, zámečník z Drážďan – dílna na acetylenové přístroje.
+- 1909 (17–18): Hugo Klein – výroba kovového zboží v čp. 332/333.
+- 24. 8. 1910 (19): **Otto Sonntag** podepisuje jako majitel domu čp. 332.
+- 12/1910–1/1911 (20–21): Karl Weber – továrna na kovové zboží v čp. 332/333.
+**Winterovi:**
+- 10. 1. 1912 (22): Rudolf Winter žádá o přestavbu „ve svém domě čp. 332 am Weiher“ → **dům koupil mezi 8/1910 a 1/1912**. 25. 1. 1912 komise: přestavba přízemí na „Kaffeeschank“ (kavárnu) a přístavba (23–26); obec mu prodává pruh pozemku (30 K/m²).
+- 22. 8. 1912 (27): žádost o **koncesi kavárny** v čp. 332.
+- 10.–15. 3. 1913 (28–32): kolaudace přestavby; za Rudolfa podepisuje doručenku **Fanni Winter**.
+- 1920–1921 (33–35): elektromotor 1 PS pro šlehací stroj na sníh, chladicí a mrazicí zařízení (1921).
+- 31. 3. 1923 (36–37): dopis na hlavičkovém papíře „Konditorei Rudolf Winter Café, Bodenbach, Bahnhofstraße, **Gegründet 1865**“ – izolace pokoje v I. patře, stavitel Rudolf Fleck.
+- 1934–1935 (38–45): Hildegard Eliášová/Elias – schválení cukrářské dílny v čp. 332/333 (1. 7. 1934), koncese hostinská a výčepní (19. 9. 1934, rejstřík konc. živností č. 65/1934), kolaudace 9. 3. 1935, povolení k užívání 11. 3. 1935.
+- 24. 11. 1938 – 1. 2. 1939 (46–48): Fanni Winter, majitelka, převod chodníku na obec.
+**Poválečné:** 11. 10. 1948 (52) domovní karta MNV (bez jména majitele); 1954 (53) „bývalá cukrářská provozovna“; 1959–1970 prohlídky a přidělování bytů, správce Domovní správa č. 8 / Bytový podnik → dům ve vlastnictví státu. Winterovi ani Eliášovi se po r. 1939 ve spisu nevyskytují.
+**Závěr k „Gegründet 1865“:** v domě čp. 332 před r. 1910 cukrárna nebyla (kožešiny, mýdlárna, dílny). Rok 1865 se tedy nevztahuje k domu, ale k firmě – nejspíš k cukrárně staršího **Rudolfa Wintera, cukráře v Bodenbachu už 1874** (kmotr našeho Rudolfa), kterou mladší Rudolf převzal. Hypotéza – ověřit v živnostenském rejstříku 1865–1903.

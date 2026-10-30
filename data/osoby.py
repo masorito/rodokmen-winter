@@ -27,7 +27,7 @@ P = {
     2: dict(n="Rudolf Winter", y="1874–1926", st="doc", r=["prunerov_krest_rudolf_winter_1874", "podmokly_scitani_1921_cp332_winter", "podmokly_zivnost_rudolf_winter_1903", "podmokly_umrti_rudolf_winter_1926", "tepla_snatek_rudolf_winter_franziska_schwarz_1903"],
             f=["* 15. 5. 1874 Prunéřov (Brunnersdorf) čp. 119, pokřtěn 16. 5. 1874", "učení 15. 3. 1889 – 15. 3. 1892 v Kadani (Kaaden)",
                "cukrář, pekař, majitel kavárny", "4. 3. 1903 ohlášena cukrářská živnost (Conditorgewerbe) v Bodenbachu čp. 337",
-               "1912 majitel čp. 332, žádost o koncesi kavárny", "1921 majitel domu čp. 333 (pekárna)",
+               "dům čp. 332 koupil mezi 8/1910 a 1/1912 (předtím Sonntagovi)", "1912 přestavba přízemí na kavárnu, 22. 8. 1912 žádost o koncesi kavárny", "1921 majitel domu čp. 333 (pekárna)",
                "× 8. 1. 1903 Teplá (kostel sv. Jiljí) Franziska (Fanni) Schwarzová", "1902 cukrář v Prunéřově", "† 9. 8. 1926 Podmokly čp. 332, vada srdeční chlopně, pohřben 12. 8. 1926"],
             note="Narození doloženo matrikou (SOA Litoměřice, L123/6, snímek 140). Kmotrem byl jmenovec Rudolf Winter, cukrář v Bodenbachu (1874). Sčítání 1921: v Bodenbachu od 12. 1. 1903, domovská příslušnost Bodenbach, národnost německá, ř.-kat. Ostatní údaje od archivního historika. Úmrtí a příčina (Herzklappenfehler) doloženy matrikou zemřelých Podmokly 133/132, sn. 218; tamtéž údaj o sňatku 8. 1. 1903 v Teplé. Na dopisním papíře 1923 „Gegründet 1865“ – nevysvětleno (předchůdce podniku?)."),
     3: dict(n="Franziska Schwarzová", y="* asi 1878", st="doc", r=["tepla_snatek_rudolf_winter_franziska_schwarz_1903", "podmokly_scitani_1921_cp332_winter", "podmokly_umrti_rudolf_winter_1926", "podmokly_snatek_franz_elias_hildegard_winter_1932"],
@@ -77,7 +77,7 @@ ISSUES = [
     ("Kde leží „Parchau, Tepl“, rodiště Fanni Schwarzové?", "Vyřešeno: Prosau = Mrázov u Teplé, mlýn čp. 13 (sčítání 1921 a oddací zápis dcery 1932). Křest 25. 4. 1870 v matrice Prosau zatím nenalezen."),
     ("Jak se jmenoval manžel Hildegardy Winterové (Elias)?", "Vyřešeno: Franz Robert Albin Eliáš, cukrář, * 17. 7. 1909, sňatek 19. 5. 1932 v Podmoklech."),
     ("Kolik dětí měli Franz a Hildegard Eliášovi?", "Otevřené: přípis zmiňuje „2. Gerda Elias, * 19. 1. 1942“ – první dítě zatím neznámé."),
-    ("Proč stojí na dopisním papíře z roku 1923 „Gegründet 1865“?", "Hypotéza: při křtu 1874 byl kmotrem Rudolfův jmenovec Rudolf Winter, už tehdy cukrář v Bodenbachu – podnik mohl založit on (1865) a mladší Rudolf ho převzít. Ověřit."),
+    ("Proč stojí na dopisním papíře z roku 1923 „Gegründet 1865“?", "Hypotéza: dům čp. 332 cukrárnou před 1910 nebyl (stavební spis), rok 1865 tedy patří firmě, ne domu. Při křtu 1874 byl kmotrem jmenovec Rudolf Winter, už tehdy cukrář v Bodenbachu – firmu mohl založit on a mladší Rudolf ji převzít. Ověřit v živnostenském rejstříku."),
     ("Co se stalo s Fanni a Hildegardou po roce 1945?", "Otevřené: online nic; Hildegardina živnost odhlášena 20. 11. 1942, příjmení poněmčeno 1941 (Eliáš → Elias). Nutný dotaz SOkA Děčín (MNV/ONV, národní správa, odsun) a v Německu (Heimatkartei)."),
     ("Kdy zemřela Franziska Winterová roz. Schwarzová?", "Otevřené: v únoru 1939 ještě žila a vlastnila dům čp. 332 (stavební spis); v Podmoklech do konce 1938 nezemřela."),
 ]
