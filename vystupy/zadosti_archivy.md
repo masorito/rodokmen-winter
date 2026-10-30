@@ -2,10 +2,13 @@
 
 Doplňte své jméno, adresu, e-mail a vztah k rodině. Posílá uživatel – Claude nic neodesílá.
 
+**Kontakty ověřeny 30. 10. 2026 na oficiálních webech** (původní adresy wast@ a lastenausgleichsarchiv@ byly chybné – omlouvám se).
+
 ---
 
 ## 1. Státní okresní archiv Děčín (SOA Litoměřice) – česky
-Adresa: SOkA Děčín, Weberova 1242/2, 405 02 Děčín 1 · e-mail: podatelna.dc@soalitomerice.cz (ověřte na www.soalitomerice.cz)
+E-mail: **sokadecin@soalitomerice.cz** (pracoviště SOkA Děčín; pro pobočku v Podmoklech též podmokly@soalitomerice.cz; obecně info@soalitomerice.cz) – adresy uvedené na www.soalitomerice.cz.
+Adresa pracoviště Podmokly: Zbrojnická 14/1, 405 02 Děčín-Podmokly.
 
 > Předmět: Badatelský dotaz – rodina Winter / Eliáš, Podmokly čp. 332, 1939–1950
 >
@@ -50,7 +53,7 @@ Adresa: SOkA Děčín, Weberova 1242/2, 405 02 Děčín 1 · e-mail: podatelna.d
 ---
 
 ## 4. Bundesarchiv – Lastenausgleichsarchiv (Bayreuth) – německy
-Adresa: Bundesarchiv, Abt. Lastenausgleichsarchiv, Dr.-Franz-Straße 1, 95445 Bayreuth · lastenausgleichsarchiv@bundesarchiv.de
+E-mail: **laa@bundesarchiv.de** (uvedeno na stránce „Anfragen an das Bundesarchiv“) · pošta: Bundesarchiv, Außenstelle Bayreuth (Lastenausgleichsarchiv), Dr.-Franz-Straße 1, 95445 Bayreuth
 
 > Betreff: Anfrage – Lastenausgleichsakten, Haus Nr. 332/333 Bodenbach (Tetschen-Bodenbach)
 >
@@ -70,8 +73,9 @@ Adresa: Bundesarchiv, Abt. Lastenausgleichsarchiv, Dr.-Franz-Straße 1, 95445 Ba
 
 ---
 
-## 5. Bundesarchiv – Abt. PA (ehem. WASt), Berlin – německy
-E-Mail: wast@bundesarchiv.de
+## 5. Bundesarchiv – osobní záznamy vojáků do 1945 (bývalá WASt), Berlin – německy
+E-mail: **dr-tegel@bundesarchiv.de** · pošta: Bundesarchiv, Am Borsigturm 130, 13507 Berlin · tel. +49 30 18 7770-1158
+Bundesarchiv žádá vyplnit a podepsat formulář **„Auftrag für eine Recherche über Militärangehörige“** (PDF: https://www.bundesarchiv.de/assets/bundesarchiv/de/Downloads/antrag-persbez-recherche-militaer.pdf) a poslat ho naskenovaný e-mailem nebo poštou; text níže použijte jako průvodní dopis.
 
 > Betreff: Anfrage nach Wehrmachtsunterlagen – Franz Elias, geb. 17.07.1909 in Bodenbach
 >
@@ -81,13 +85,14 @@ E-Mail: wast@bundesarchiv.de
 
 ---
 
-## 6. DRK-Suchdienst München – německy
-Online-Formular: www.drk-suchdienst.de (Rubrik „Vermisstenschicksale / Familienzusammenführung“)
+## 6. DRK-Suchdienst – německy (nižší priorita)
+Pozor: mnichovské pracoviště pro osudy z 2. světové války mělo podle DRK končit koncem roku 2025 a agenda přechází do Berlína/Hamburku. Žádost proto podejte přes formulář na **www.drk-suchdienst.de** (je zdarma) – web vás nasměruje na platné pracoviště.
 Údaje: tytéž čtyři osoby a data jako výše; poslední známé bydliště Bodenbach, Bahnhofstraße 332 (1942).
 
 ---
 
-## 7. Heimatkreis Tetschen-Bodenbach (spolek rodáků) – německy
+## 7. Spolek rodáků z Děčínska (Heimatkreis Tetschen-Bodenbach) – německy
+Platný kontakt se mi ověřit nepodařilo. Doporučuji napsat Sudetendeutsche Landsmannschaft (www.sudeten.de), ať dotaz předá Heimatkreisu Tetschen-Bodenbach.
 > Betreff: Suche nach Familie Winter / Elias, Konditorei Bahnhofstraße 332, Bodenbach
 >
 > Ich suche Informationen über die Familie der Konditorei/Café **Rudolf Winter** in der Bahnhofstraße 332 in Bodenbach – Witwe **Fanni Winter** (geb. ca. 1878) sowie Tochter **Hildegard Elias** geb. Winter (geb. 1909) mit Ehemann **Franz Elias** (Konditor, geb. 1909) und Tochter **Gerda** (geb. 1942). Gibt es Einträge in der Heimatkartei, Nachrufe im Heimatbrief oder Kontakte zu Nachkommen?
