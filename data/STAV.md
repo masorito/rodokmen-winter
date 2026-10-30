@@ -34,4 +34,4 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Síť povolena. Hotovo: křest Rudolfa (L123/6, sn. 140). Další: sňatek rodičů Josef Winter × Marie Weigdörfer(?) v Prunéřově (cca 1855–1874), sňatek Rudolf × Fanni (Podmokly nebo její rodiště, cca 1895–1909), křest Hildegardy 1909 Podmokly, sčítání 1921 v badatelně (originál, citace). Badatelna SOA Litoměřice se ovládá headless prohlížečem (Playwright, skripty ve scratchpadu) – pozor na limit ~100 stránek.
+- Hotovo: křest Rudolfa 1874, sňatek rodičů 1871, sčítání 1921 (originál). Sňatek Rudolf × Fanni NENÍ v Podmoklech 1889–1912; křest Hildegardy NENÍ v řk. ani evang. matrice Podmokel 1909. Další: farnost Děčín (Tetschen) 1909, Rejstřík živností okr. Děčín, starší Rudolf Winter (cukrář 1874) – křest v Prunéřově. Badatelna: tools/soal_pw/.
