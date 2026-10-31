@@ -73,3 +73,10 @@ Str. 310 (Verzeichnis der selbständigen Einwohner von Groß-Bodenbach), jmenovc
     Hildegard samostatně uvedena není (adresář uvádí jen „selbständige“ – hlavy domácností/živnostníky).
     Mimochodem: Erben Gustav, Konditor, Am Weiher 325 – konkurenční cukrář v sousedství.
   - str. 304: Winter Fanny, Konditorei, Bahnhofstraße 332; Winter Leo, Konditor, Theod.-Körner-Str. 740 (potvrzeno).
+
+## Adress-Buch von Tetschen-Bodenbach und dem Gerichtsbezirke Tetschen, 1883 (Google Books, PDF od uživatele: `dokumenty/Adress_Buch_von_Tetschen_Bodenbach_und_d.pdf`)
+Vydáno v dubnu 1883 (předmluva „Tetschen-Bodenbach, April 1883“).
+- Bodenbach, živnosti: **„Conditoreien: Rudolf Winter.“** – jediná cukrárna v Podmoklech!
+- Seznam obyvatel Bodenbachu: **„Winter Rudolf, Conditor, NW. 41“** (NW = Nieder-Weiher, dům č. 41).
+- Seznam majitelů domů ve Weiheru: č. 41 = **Josef Laube** (Rudolf tam tedy byl v nájmu); č. 39 = **Friedrich Zeischke** – to je dům, který se později stal čp. 332! Starší Rudolf měl cukrárnu **o dva domy vedle** budoucího domu Winterových.
+- Ve Weiheru žije také rozvětvená rodina Winterů – lodníků (Schiffseigner): Wilhelm (č. 5), Ferdinand (č. 6), Philipp (č. 4), Friedrich (č. 34), Franz (č. 80), Leo F. Winter, obchodník (č. 80), Marie Winter, hokynářka (č. 34). Vztah k cukráři neznámý – nejspíš jiný rod.
