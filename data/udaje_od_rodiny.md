@@ -59,3 +59,11 @@ Kopie ze stavebního úřadu Děčín, 138 stran, 1880–1999. Přečteno zatím
 - 24. 11. 1938 – 1. 2. 1939 (46–48): Fanni Winter, majitelka, převod chodníku na obec.
 **Poválečné:** 11. 10. 1948 (52) domovní karta MNV (bez jména majitele); 1954 (53) „bývalá cukrářská provozovna“; 1959–1970 prohlídky a přidělování bytů, správce Domovní správa č. 8 / Bytový podnik → dům ve vlastnictví státu. Winterovi ani Eliášovi se po r. 1939 ve spisu nevyskytují.
 **Závěr k „Gegründet 1865“:** v domě čp. 332 před r. 1910 cukrárna nebyla (kožešiny, mýdlárna, dílny). Rok 1865 se tedy nevztahuje k domu, ale k firmě – nejspíš k cukrárně staršího **Rudolfa Wintera, cukráře v Bodenbachu už 1874** (kmotr našeho Rudolfa), kterou mladší Rudolf převzal. Hypotéza – ověřit v živnostenském rejstříku 1865–1903.
+
+## Adresář okresu Děčín 1934 (Martin-Opitz-Bibliothek, digitalizát, volně)
+„Adressbuch für den politischen Bezirk Tetschen a. E.“, 1934 – https://digital.martin-opitz-bibliothek.de/detailseite/id/1834/page/310
+Str. 310 (Verzeichnis der selbständigen Einwohner von Groß-Bodenbach), jmenovci Winter:
+- **Winter Fanny, Konditorei, Bahnhofstraße 332** ← Fanni vede cukrárnu ještě 1934.
+- **Winter Leo, Konditor, Theod.-Körner-Str. 740** ← další cukrář Winter v Podmoklech! Vztah neznámý (syn staršího Rudolfa? bratranec?) – stopa k „Gegründet 1865“.
+- dále Winter Antonia (penzistka, Flurenstr. 695), Artur (obchodník, Krochwitz 53), Bruno Anton (železničář, Neudorf 30), Edmund (malíř, Rotbergstr. 263), Oswald (penzista, Nd.-Ullgersdorf 166) – vztah neznámý.
+- Str. 235 (Elias) nemá textovou vrstvu – nutno prohlédnout ručně: https://digital.martin-opitz-bibliothek.de/detailseite/id/1834/page/235
