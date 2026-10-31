@@ -18,7 +18,7 @@ Adresa pracoviště Podmokly: Zbrojnická 14/1, 405 02 Děčín-Podmokly.
 >
 > - **Franziska (Fanni) Winterová**, roz. Schwarzová, nar. 25. 4. asi 1878 v Mrázově (Prosau), vdova po cukráři Rudolfu Winterovi († 1926), majitelka domu čp. 332 (ještě 1939);
 > - **Hildegard Eliášová (Elias)**, roz. Winterová, nar. 14. 6. 1909 v Podmoklech, cukrářka, živnost v čp. 332 v letech 1934–1942;
-> - **Franz Robert Albin Eliáš (Elias)**, nar. 17. 7. 1909 v Podmoklech, cukrář, bytem Podmokly čp. 576; jeho otec **Franz Eliáš**, ředitel továrny, Podmokly čp. 576;
+> - **Franz Robert Albin Eliáš (Elias)**, nar. 17. 7. 1909 v Podmoklech, cukrář, bytem Podmokly čp. 576 (1932), podle adresáře z r. 1934 Bahnhofstraße (Nádražní) čp. 332; jeho otec **Franz Eliáš**, ředitel továrny / jednatel (Geschäftsführer), Podmokly, Schlachthofstraße (Jatečná) čp. 576;
 > - **Gerda Elias**, nar. 19. 1. 1942.
 >
 > Zajímají mě zejména:
@@ -61,9 +61,9 @@ E-mail: **laa@bundesarchiv.de** (uvedeno na stránce „Anfragen an das Bundesar
 >
 > im Rahmen einer Familienforschung suche ich nach Lastenausgleichs- bzw. Feststellungsakten zu folgenden Personen aus Bodenbach (heute Děčín-Podmokly, Tschechien):
 >
-> - **Franziska (Fanni) Winter**, geb. Schwarz, geb. 25.04. ca. 1878 in Prosau, Kreis Tepl; Hausbesitzerin Bodenbach, Bahnhofstraße Nr. 332/333 (Konditorei Rudolf Winter Café);
+> - **Franziska (Fanni) Winter**, geb. Schwarz, geb. 25.04. ca. 1878 in Prosau, Kreis Tepl; Hausbesitzerin Bodenbach, Bahnhofstraße Nr. 332/333 (Konditorei Rudolf Winter Café; Adressbuch 1934: „Winter Fanny, Konditorei, Bahnhofstraße 332“);
 > - **Hildegard Elias**, geb. Winter, geb. 14.06.1909 in Bodenbach, Konditorin;
-> - **Franz Robert Albin Elias** (bis 1941 Eliáš), geb. 17.07.1909 in Bodenbach, Konditor;
+> - **Franz Robert Albin Elias** (bis 1941 Eliáš), geb. 17.07.1909 in Bodenbach, Konditor (Adressbuch 1934: „Elias Franz, Konditor, Bahnhofstraße 332“); sein Vater **Franz Elias**, Geschäftsführer, Bodenbach, Schlachthofstraße 576;
 > - **Gerda Elias**, geb. 19.01.1942.
 >
 > Ich bitte um Mitteilung, ob Akten vorhanden sind und unter welchen Bedingungen Einsicht oder Kopien möglich sind. Besonders interessiert mich der Wohnort der Antragsteller nach 1945.
