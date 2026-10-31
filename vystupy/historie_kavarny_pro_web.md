@@ -23,6 +23,7 @@ Za války se rodina musela přizpůsobit nové správě: v roce 1941 bylo příj
 |---|---|---|---|
 | 1865 | Na firemním papíře uváděno „Gegründet 1865“ | **[hypotéza]** – viz oddíl 4 | dopis 31. 3. 1923, stavební spis |
 | 1874 | V Podmoklech už působí cukrář jménem Rudolf Winter (kmotr našeho Rudolfa) | **[doloženo]** | matrika Prunéřov, SOA Litoměřice L123/6, sn. 140 |
+| duben 1883 | Rudolf Winter je **jediný cukrář v Podmoklech** („Conditoreien: Rudolf Winter“); dílna v Nieder-Weiheru č. 41 (v nájmu) – **jen dva domy od pozdější kavárny** (sousední č. 39 = pozdější čp. 332) | **[doloženo]** | Adress-Buch von Tetschen-Bodenbach 1883 |
 | 15. 5. 1874 | Narození Rudolfa Wintera, Prunéřov čp. 119; otec Josef Winter, obuvnický mistr, matka Marie roz. Weitzdörferová | **[doloženo]** | matrika narozených Prunéřov, L123/6, sn. 140 |
 | 1889–1892 | Učení v Kadani | uvedeno archivním historikem | – |
 | 25. 4. asi 1878 | Narození Franzisky (Fanni) Schwarzové, Mrázovský mlýn čp. 13 u Teplé; otec Johann Nepomuk Schwarz, mlynářský mistr, matka Aloisie roz. Wollrabová z Teplé | **[doloženo]** (věk a rodiče ze sňatku; den ze sčítání 1921) | oddací matrika Teplá 1903; sčítání 1921 |
@@ -66,7 +67,7 @@ Za války se rodina musela přizpůsobit nové správě: v roce 1941 bylo příj
 
 ### 4. Otevřené otázky (na webu jen opatrně nebo vůbec)
 
-- **Proč „Gegründet 1865“?** Když byl Rudolf v roce 1874 pokřtěn, byl jeho kmotrem jmenovec **Rudolf Winter, „cukrář v Podmoklech“**. Je tedy možné, že rok 1865 patří firmě tohoto staršího Rudolfa Wintera (nejspíš strýce) a mladší Rudolf jeho podnik a jméno převzal. **[hypotéza – neověřeno]** Možná formulace pro web: *„Firma uváděla rok založení 1865. Rodinná tradice cukrářů Winterů v Podmoklech je doložena už v roce 1874.“*
+- **Proč „Gegründet 1865“?** Když byl Rudolf v roce 1874 pokřtěn, byl jeho kmotrem jmenovec **Rudolf Winter, „cukrář v Podmoklech“**. V dubnu 1883 je Rudolf Winter podle adresáře **jediný cukrář v Podmoklech** a jeho dílna stojí v Nieder-Weiheru č. 41 – **jen dva domy od domu, který se později stal kavárnou** (č. 39 = čp. 332). Je tedy velmi pravděpodobné, že rok 1865 patří firmě tohoto staršího Rudolfa Wintera (nejspíš strýce) a mladší Rudolf jeho podnik převzal. **[pravděpodobné – převod firmy ani příbuzenství zatím přímo doloženy nejsou]** Možná formulace pro web: *„Firma uváděla rok založení 1865. Cukrářská tradice jména Winter je v Podmoklech doložena od roku 1874; v roce 1883 byl Rudolf Winter jediným cukrářem ve městě a jeho dílna stála jen pár domů od pozdější kavárny.“*
 - V adresáři z roku 1934 je v Podmoklech ještě **Leo Winter, cukrář, Theodor-Körner-Straße 740**. Jeho vztah k rodině zatím neznáme.
 - **Co se stalo s Fanni, Hildegard, Franzem a dcerou Gerdou po roce 1942 a po roce 1945** (odsun, odchod do Německa, nebo zůstali?), zjišťujeme dotazy v archivech v Děčíně a v Německu (Lastenausgleichsarchiv Bayreuth).
 - Gerda Elias (* 1942) může žít. Na webu uvádějte nanejvýš jméno a rok narození.
@@ -89,4 +90,5 @@ Za války se rodina musela přizpůsobit nové správě: v roce 1941 bylo příj
 - SOA Plzeň, Porta fontium: matrika oddaných Teplá-město 1873–1907 (tepla-mesto-34)
 - SOkA Děčín: Sčítání lidu 1921, Podmokly čp. 301–370; Okresní úřad Děčín, rejstříky živností (inv. č. 4 a 15)
 - Stavební spis domu čp. 332/47, Děčín IV (kopie ze stavebního úřadu), 1880–1999
+- Adress-Buch von Tetschen-Bodenbach und dem Gerichtsbezirke Tetschen, 1883 (Google Books)
 - Adressbuch des politischen Bezirkes Tetschen 1934 (Martin-Opitz-Bibliothek, digital.martin-opitz-bibliothek.de)
