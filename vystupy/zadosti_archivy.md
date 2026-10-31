@@ -26,6 +26,7 @@ Adresa pracoviště Podmokly: Zbrojnická 14/1, 405 02 Děčín-Podmokly.
 > 2. fondy MNV Podmokly a ONV Děčín: konfiskace a národní správa domů čp. 332, 333 a 576, osvědčení o národní spolehlivosti, žádosti o ponechání čs. státního občanství, soupisy a transportní seznamy odsunu 1945–1946;
 > 3. fond Landrat Tetschen: odhláška živnosti Hildegardy Elias k 20. 11. 1942;
 > 4. živnostenské spisy k podniku (Konditorei Rudolf Winter Café, „gegründet 1865“).
+> 5. rejstřík volných a řemeslných živností politického okresu Děčín z let 1865–1895: zápis **Rudolfa Wintera, cukráře v Podmoklech** (Nieder-Weiher č. 41, doložen 1874 a 1883) – kdy živnost založil (na firemním papíře „gegründet 1865“) a zda ji později převzal jeho jmenovec Rudolf Winter (* 1874, živnost ohlášena 4. 3. 1903).
 >
 > Pokud je to možné, prosím o informaci o rozsahu rešerše a ceně, případně o možnosti osobního studia v badatelně.
 >
