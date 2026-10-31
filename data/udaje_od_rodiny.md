@@ -67,3 +67,9 @@ Str. 310 (Verzeichnis der selbständigen Einwohner von Groß-Bodenbach), jmenovc
 - **Winter Leo, Konditor, Theod.-Körner-Str. 740** ← další cukrář Winter v Podmoklech! Vztah neznámý (syn staršího Rudolfa? bratranec?) – stopa k „Gegründet 1865“.
 - dále Winter Antonia (penzistka, Flurenstr. 695), Artur (obchodník, Krochwitz 53), Bruno Anton (železničář, Neudorf 30), Edmund (malíř, Rotbergstr. 263), Oswald (penzista, Nd.-Ullgersdorf 166) – vztah neznámý.
 - Str. 235 (Elias) nemá textovou vrstvu – nutno prohlédnout ručně: https://digital.martin-opitz-bibliothek.de/detailseite/id/1834/page/235
+- **Ověřeno na skenu od uživatele (31. 10. 2026)**, tištěná str. 229 (scan 235) a str. 304 (scan 310), uloženo v `dokumenty/adresar_1934/`:
+  - str. 229: **Elias Franz, Geschäftsführer, Schlachthofstraße 576** (= otec, dříve „Fabriksdirektor“, dům čp. 576 z oddacího zápisu 1932);
+    **— Franz, Konditor, Bahnhofstraße 332** (= manžel Hildegardy); — Franz, Brauer, Lessingstraße 1145 (jiná osoba, vztah neznámý).
+    Hildegard samostatně uvedena není (adresář uvádí jen „selbständige“ – hlavy domácností/živnostníky).
+    Mimochodem: Erben Gustav, Konditor, Am Weiher 325 – konkurenční cukrář v sousedství.
+  - str. 304: Winter Fanny, Konditorei, Bahnhofstraße 332; Winter Leo, Konditor, Theod.-Körner-Str. 740 (potvrzeno).
