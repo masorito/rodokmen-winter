@@ -96,3 +96,4 @@ Odkazy: https://orka.bibliothek.uni-kassel.de/viewer/fullscreen/1382947338432_<r
 - Na stejné adrese 1955–1962: **„Elias Ingeburg, kfm. Angest.(ellte), Kirchweg 28“** – obchodní úřednice. Hypotéza: starší dcera Franze a Hildegardy (v oddací matrice je Gerda uvedena jako „2.“ dítě), nebo jeho nová manželka. Neověřeno; může žít.
 - Hildegard Elias ani Franziska Winter v adresářích města Kassel 1953–1962 nejsou (Fanni byla v domově důchodců).
 - Jiní Eliasové v Kasselu (Hermann, rentiér, Hentzestr. 6; Anna, rentiérka tamtéž 1961; Herbert, stavebník/zedník, Kohlenstr. 37) – vztah neznámý.
+- Pokračování 1963–1971 (ORKA): Franz Elias do 1965 Lagerarbeiter, od 1967 Rentner, do 1971 stále v Kasselu (různé adresy). V téže domácnosti po celou dobu Ingeborg/Ingeburg Elias, úřednice – spíš dcera než manželka (neověřeno; může žít, údaje jen základní). Ročníky od 1973 online nejsou.
