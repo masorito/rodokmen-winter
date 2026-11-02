@@ -119,6 +119,7 @@ Tip: vložte text do e-mailu jako prostý text (bez formátování).
 > 2. Hildegard Elias geb. Winter, geb. 14.06.1909 in Bodenbach, Konditorin – Tochter der Franziska Winter;
 > 3. Franz Robert Albin Elias, geb. 17.07.1909 in Bodenbach, Konditor – Ehemann von Hildegard, wohnte nach 1945 in Kassel und ist später verzogen;
 > 4. Gerda Elias, geb. 19.01.1942 in Bodenbach – Tochter von Franz und Hildegard Elias;
+>    (Laut Kasseler Adressbuch 1955–1962 wohnte „Elias Franz, Konditor“ bzw. „Lagerarbeiter“ im Kirchweg 28, ebenda „Elias Ingeburg, kfm. Angestellte“ – möglicherweise eine weitere Tochter.)
 > 5. Franz Elias sen., geb. 15.06.1881 in Dobschitz, gest. 27.09.1954 in Kassel, und seine Ehefrau Wilhelmine Elias geb. Prautsch, geb. 21.07.1884.
 >
 > Besonders interessieren mich Angaben aus den Meldekarten bzw. Hausstandsbüchern (Zuzug nach Kassel, Anschriften, Wegzug und neue Anschrift), insbesondere zum Verbleib von Hildegard Elias und ihrer Tochter Gerda. Soweit für jüngere Unterlagen eine Schutzfristverkürzung erforderlich ist, bitte ich um entsprechende Hinweise.

@@ -87,3 +87,12 @@ Vydáno v dubnu 1883 (předmluva „Tetschen-Bodenbach, April 1883“).
 - **Franz Elias, * 17. 7. 1909**, bydlel také v Kasselu, později se odstěhoval neznámo kam. O manželce Hildegard v jeho záznamu nic není.
 - Jeho rodiče: **Franz Elias, * 15. 6. 1881 Dobšice, † 27. 9. 1954 Kassel**, ředitel továrny na kovové zboží **Dr. Block & Co.** v Podmoklech; **Wilhelmine roz. Prautsch, * 21. 7. 1884** asi v Podmoklech. Žili také v Kasselu, předtím v Bynově, Neue Straße 117 (dnes Rudolfova).
 - Matriky, které nejsou online, jsou buď v SOA Litoměřice před digitalizací, nebo ještě na matričním úřadě.
+
+## Kasseler Adressbuch 1953–1962 (ORKA, Univerzitní knihovna Kassel, fulltext)
+Odkazy: https://orka.bibliothek.uni-kassel.de/viewer/fullscreen/1382947338432_<rok>/<stránka>/ (rok_stránka: 1955_130, 1956_131, 1957_135, 1959_138, 1961_148, 1962_151)
+- 1953, 1954: žádný Franz Elias, žádná Franziska Winter (rodina zřejmě bydlela mimo město Kassel – adresář pokrývá jen město).
+- **1955, 1956, 1957: „Elias Franz, Konditor, Kirchweg 28“** – cukrář stejného jména jako manžel Hildegardy → velmi pravděpodobně on.
+- **1959, 1961, 1962: „Elias Franz, Lagerarb.(eiter), Kirchweg 28“** – tentýž člověk, už jako skladník.
+- Na stejné adrese 1955–1962: **„Elias Ingeburg, kfm. Angest.(ellte), Kirchweg 28“** – obchodní úřednice. Hypotéza: starší dcera Franze a Hildegardy (v oddací matrice je Gerda uvedena jako „2.“ dítě), nebo jeho nová manželka. Neověřeno; může žít.
+- Hildegard Elias ani Franziska Winter v adresářích města Kassel 1953–1962 nejsou (Fanni byla v domově důchodců).
+- Jiní Eliasové v Kasselu (Hermann, rentiér, Hentzestr. 6; Anna, rentiérka tamtéž 1961; Herbert, stavebník/zedník, Kohlenstr. 37) – vztah neznámý.
