@@ -80,3 +80,10 @@ Vydáno v dubnu 1883 (předmluva „Tetschen-Bodenbach, April 1883“).
 - Seznam obyvatel Bodenbachu: **„Winter Rudolf, Conditor, NW. 41“** (NW = Nieder-Weiher, dům č. 41).
 - Seznam majitelů domů ve Weiheru: č. 41 = **Josef Laube** (Rudolf tam tedy byl v nájmu); č. 39 = **Friedrich Zeischke** – to je dům, který se později stal čp. 332! Starší Rudolf měl cukrárnu **o dva domy vedle** budoucího domu Winterových.
 - Ve Weiheru žije také rozvětvená rodina Winterů – lodníků (Schiffseigner): Wilhelm (č. 5), Ferdinand (č. 6), Philipp (č. 4), Friedrich (č. 34), Franz (č. 80), Leo F. Winter, obchodník (č. 80), Marie Winter, hokynářka (č. 34). Vztah k cukráři neznámý – nejspíš jiný rod.
+
+## Sdělení SOkA Děčín (e-mail, 2. 11. 2026)
+- Rodina Winterových a Eliasových byla **vysídlena v rámci tzv. divokého odsunu už v létě 1945** (v poválečných evidencích obyvatel okresu Děčín ani shromažďovacího střediska v Děčíně-Starém Městě nejsou).
+- Rodina našla nový domov v **Kasselu**. **Franziska Winter zemřela 2. 4. 1959 v Kasselu v domově důchodců.**
+- **Franz Elias, * 17. 7. 1909**, bydlel také v Kasselu, později se odstěhoval neznámo kam. O manželce Hildegard v jeho záznamu nic není.
+- Jeho rodiče: **Franz Elias, * 15. 6. 1881 Dobšice, † 27. 9. 1954 Kassel**, ředitel továrny na kovové zboží **Dr. Block & Co.** v Podmoklech; **Wilhelmine roz. Prautsch, * 21. 7. 1884** asi v Podmoklech. Žili také v Kasselu, předtím v Bynově, Neue Straße 117 (dnes Rudolfova).
+- Matriky, které nejsou online, jsou buď v SOA Litoměřice před digitalizací, nebo ještě na matričním úřadě.
