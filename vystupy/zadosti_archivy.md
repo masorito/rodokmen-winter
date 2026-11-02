@@ -67,6 +67,8 @@ E-mail: **laa@bundesarchiv.de** (uvedeno na stránce „Anfragen an das Bundesar
 > - **Franz Robert Albin Elias** (bis 1941 Eliáš), geb. 17.07.1909 in Bodenbach, Konditor (Adressbuch 1934: „Elias Franz, Konditor, Bahnhofstraße 332“); sein Vater **Franz Elias**, Geschäftsführer, Bodenbach, Schlachthofstraße 576;
 > - **Gerda Elias**, geb. 19.01.1942.
 >
+> Nach meinen Informationen wurde die Familie im Sommer 1945 aus Bodenbach vertrieben und ließ sich in **Kassel** nieder. Franziska Winter starb dort am 02.04.1959; Franz Elias sen. (geb. 15.06.1881 in Dobschitz, Fabrikdirektor der Metallwarenfabrik Dr. Block & Co., Bodenbach) starb in Kassel am 27.09.1954, seine Frau Wilhelmine geb. Prautsch (geb. 21.07.1884) lebte ebenfalls in Kassel. Ein Lastenausgleichsantrag dürfte daher beim Ausgleichsamt Kassel gestellt worden sein.
+>
 > Ich bitte um Mitteilung, ob Akten vorhanden sind und unter welchen Bedingungen Einsicht oder Kopien möglich sind. Besonders interessiert mich der Wohnort der Antragsteller nach 1945.
 >
 > Mit freundlichen Grüßen
@@ -99,3 +101,29 @@ Platný kontakt se mi ověřit nepodařilo. Doporučuji napsat Sudetendeutsche L
 > Ich suche Informationen über die Familie der Konditorei/Café **Rudolf Winter** in der Bahnhofstraße 332 in Bodenbach – Witwe **Fanni Winter** (geb. ca. 1878) sowie Tochter **Hildegard Elias** geb. Winter (geb. 1909) mit Ehemann **Franz Elias** (Konditor, geb. 1909) und Tochter **Gerda** (geb. 1942). Gibt es Einträge in der Heimatkartei, Nachrufe im Heimatbrief oder Kontakte zu Nachkommen?
 >
 > [Name, E-Mail]
+
+---
+
+## 8. Stadtarchiv Kassel – německy (NOVÉ, kontakt ověřen na kassel.de)
+E-mail: **stadtarchiv@kassel.de** · Stadtarchiv Kassel, Wildemannsgasse 1, 34117 Kassel
+Archiv vydává výpisy z matrik (Standesregister) a údaje z evidence obyvatel (Meldekarten, Hausstandsbücher) **e-mailem za poplatek** – je nutné uvést **adresu pro zaslání faktury**. Meldekarten mladší osoby podléhají ochranné lhůtě (archiv případně vyzve k žádosti o zkrácení lhůty).
+Tip: vložte text do e-mailu jako prostý text (bez formátování).
+
+> Betreff: Anfrage – Sterbeeintrag Franziska Winter (gest. 02.04.1959) und Meldeunterlagen der Familie Winter / Elias
+>
+> Sehr geehrte Damen und Herren,
+>
+> im Rahmen einer Familien- und Ortsgeschichtsforschung zur ehemaligen Konditorei und Café Rudolf Winter in Bodenbach (heute Děčín-Podmokly, Tschechien) bitte ich um Auskunft zu folgenden Personen, die 1945 aus Bodenbach vertrieben wurden und sich in Kassel niederließen:
+>
+> 1. Franziska (Fanni) Winter geb. Schwarz, geb. 25.04. ca. 1878 in Prosau (Kreis Tepl), Witwe des Konditors Rudolf Winter, gest. 02.04.1959 in Kassel in einem Altenheim – ich bitte um eine Kopie bzw. Abschrift des Sterbeeintrags (letzte Anschrift, Anzeigender);
+> 2. Hildegard Elias geb. Winter, geb. 14.06.1909 in Bodenbach, Konditorin – Tochter der Franziska Winter;
+> 3. Franz Robert Albin Elias, geb. 17.07.1909 in Bodenbach, Konditor – Ehemann von Hildegard, wohnte nach 1945 in Kassel und ist später verzogen;
+> 4. Gerda Elias, geb. 19.01.1942 in Bodenbach – Tochter von Franz und Hildegard Elias;
+> 5. Franz Elias sen., geb. 15.06.1881 in Dobschitz, gest. 27.09.1954 in Kassel, und seine Ehefrau Wilhelmine Elias geb. Prautsch, geb. 21.07.1884.
+>
+> Besonders interessieren mich Angaben aus den Meldekarten bzw. Hausstandsbüchern (Zuzug nach Kassel, Anschriften, Wegzug und neue Anschrift), insbesondere zum Verbleib von Hildegard Elias und ihrer Tochter Gerda. Soweit für jüngere Unterlagen eine Schutzfristverkürzung erforderlich ist, bitte ich um entsprechende Hinweise.
+>
+> Die anfallenden Gebühren übernehme ich gern. Rechnungsadresse: [Name, Anschrift].
+>
+> Mit freundlichen Grüßen
+> [Name, Anschrift, E-Mail]
