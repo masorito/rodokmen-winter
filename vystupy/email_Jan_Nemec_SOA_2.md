@@ -12,11 +12,22 @@ ještě jednou mockrát děkuji za Vaše sdělení o poválečném osudu rodiny.
 - **Franz Elias**, důchodce (Rentner), zemřel **27. 9. 1954 v 0:30 h** v Kasselu, **Kirchweg 28**, v bytě ohlašovatelky.
 - Narozen **15. 6. 1881 v Dobšicích** (Doppitz). To přesně odpovídá Vašemu údaji.
 - **Rodiče:** **Matthias Eliasch** a **Maria roz. Tlapak**. Rodokmen se tím po linii Eliášů posouvá o generaci zpět.
-- Byl **vdovcem** po **Anně Wilhelmině roz. Prautsch**, takže manželka zemřela před zářím 1954. Kdy a kde, zatím nevím.
+- Byl **vdovcem** po **Anně Wilhelmině roz. Prautsch** (viz bod 1a).
 - Sňatek: **14. 7. 1904 v Podmoklech** (zápis uvádí matriční odkaz „Seelsorgeamt Bodenbach IV/223“).
 - **Úmrtí ohlásila „Hildegard Elias, wohnhaft in Kassel, Kirchweg 28“** a zápis vlastnoručně podepsala. V zápisu je označena jako „Ehefrau“, ve skutečnosti jde o snachu (manželku Franze ml.).
 
 **Hlavní závěr:** Hildegard Elias roz. Winterová přežila odsun a ještě **v září 1954 žila v Kasselu**. Rodina bydlela pohromadě na adrese Kirchweg 28.
+
+## 1a. Úmrtí Anny Wilhelminy Elias roz. Prautsch (Kassel 1952)
+
+**Pramen:** Standesamt Kassel I, Sterberegister 1952, č. 2314 (StadtAKS A 3.35.1 Nr. 3.1.434, s. 515).
+
+- Zemřela **21. 12. 1952** v Kasselu, ve svém bytě na adrese **Kirchweg 28**, na rakovinu hltanu.
+- Narodila se **21. 7. 1884 v Podmoklech**. Zápis uvádí její křest v římskokatolické farnosti Podmokly, sv. V, č. 114.
+- **Rodiče:** **Ignaz Prautsch** a **Theresia roz. Tampe**, oba naposledy bytem v Podmoklech.
+- Úmrtí ohlásil a podepsal manžel Franz Elias.
+
+Celá rodina tedy bydlela na adrese Kirchweg 28 nejpozději od roku 1952.
 
 ## 2. Kasselské adresáře 1953–1972
 
@@ -44,13 +55,13 @@ V rejstřících zemřelých Standesamt Kassel I za roky **1958, 1959 a 1960** j
 | Franz Robert Albin Eliáš / Elias | * 17. 7. 1909, cukrář, v Kasselu 1954–1971 | O Podmokly; Kasseler Adressbuch |
 | Gerda Elias | * 19. 1. 1942 | přípis v O Podmokly |
 | Franz Elias st. | * 15. 6. 1881 Dobšice, † 27. 9. 1954 Kassel; rodiče Matthias Eliasch a Maria Tlapak | Sterbereg. Kassel 1954 |
-| Anna Wilhelmine roz. Prautsch | * 21. 7. 1884, † před 9/1954 | sdělení SOkA; Sterbereg. Kassel 1954 |
+| Anna Wilhelmine roz. Prautsch | * 21. 7. 1884 Podmokly, † 21. 12. 1952 Kassel; rodiče Ignaz Prautsch a Theresia roz. Tampe | sdělení SOkA; Sterbereg. Kassel 1952 |
 
 ## Prosba o radu
 
 Chtěl bych se Vás ještě zeptat:
 
-1. **Úmrtí Anny Wilhelminy Eliasové roz. Prautsch:** V Kasselu do roku 1954 zemřít nemusela. Nemohla zemřít ještě v Podmoklech v roce 1945 nebo dříve? Prošel jsem jen svazek S43/22. Nevíte, zda stojí za to projít předchozí svazek **S43/21** (zápisy do začátku června 1945)?
+1. **Úmrtí Hildegardy a Franze ml.:** V Kasselu (obvod Kassel I) v letech 1955–1963 nezemřeli. Novější matriky online nejsou. Nevíte, zda SOkA Děčín má ve svých podkladech i pozdější údaje o rodině, například z korespondence s Kasselem?
 2. **Narození staršího dítěte Hildegardy a Franze (1932–1941):** Matriky narozených Podmokly z té doby online nejsou. Jsou uloženy u Vás, nebo ještě na matričním úřadě v Děčíně?
 3. **Sňatek Franze Eliase st. a Wilhelminy Prautschové 14. 7. 1904:** Je oddací matrika Podmokly (Seelsorgeamt IV/223) dostupná? Zápis by uvedl i rodiče nevěsty.
 
