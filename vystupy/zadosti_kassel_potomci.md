@@ -39,13 +39,13 @@ Nach der Vertreibung im Sommer 1945 lebte die Familie in Kassel, Kirchweg 28. Au
 
 1. **Hildegard Elias geb. Winter**, * 14. 6. 1909 in Bodenbach. Lebte 1954 in Kassel, Kirchweg 28. In Kassel I ist sie in den Jahren 1955–1963 nicht verstorben, also vermutlich später.
 2. **Franz Robert Albin Elias**, * 17. 7. 1909 in Bodenbach, Konditor, später Lagerarbeiter. Laut Adressbüchern bis mindestens 1971 in Kassel, zuletzt Rentner.
-3. **Franziska (Fanni) Winter geb. Schwarz**, * um 1878 in Prosau (Mrázov), Böhmen. Nach Auskunft des Archivs Děčín † 2. 4. 1959 in Kassel, angeblich in einem Altersheim. In Kassel I (1958–1960) ist der Sterbefall nicht eingetragen, vielleicht wurde er in einem Standesamt des Landkreises beurkundet.
+3. **Franziska (Fanni) Winter geb. Schwarz**, * 25. 4. 1878 in Prosau (Mrázov), Böhmen. Zuletzt wohnhaft im **Altersheim Simmershausen** (Landkreis Kassel). Nach Auskunft des Archivs Děčín † 2. 4. 1959. Der Sterbefall ist weder in Kassel I (1958–1960) noch in Simmershausen (1957–1959) eingetragen. Vielleicht starb sie in einem Krankenhaus außerhalb dieser Bezirke, oder das Datum ist das einer Meldung.
 
 Für jede Person bitte ich um **Datum, Ort und Registernummer des Sterbefalls** und, wenn möglich, um eine **Kopie des Registereintrags**. Besonders wichtig ist mir, wer den Sterbefall angezeigt hat.
 
 **Zusätzlich bitte ich um eine Auskunft aus der historischen Einwohnermeldekartei (sofern vorhanden):**
 - Wann zog die Familie in Kassel zu, und wer gehörte zum Haushalt Kirchweg 28? Insbesondere: **Gerda Elias**, * 19. 1. 1942 in Tetschen-Bodenbach (Tochter von Franz und Hildegard), und **Ingeborg/Ingeburg Elias**, kaufmännische Angestellte, laut Adressbuch 1955–1971 im selben Haushalt.
-- In welchem Altersheim lebte Franziska Winter 1959?
+- Wo genau ist Franziska Winter verstorben (Krankenhaus?), und welches Standesamt hat den Sterbefall beurkundet?
 
 Ich forsche als Privatperson für historische und familiengeschichtliche Zwecke. Die Kosten für die Recherche und für Kopien übernehme ich gern. Bitte teilen Sie mir die Höhe vorab mit. Sollte die Anfrage beim Standesamt besser aufgehoben sein, bitte ich um freundliche Weiterleitung.
 
@@ -69,7 +69,7 @@ ich erforsche die Geschichte der Familie Winter/Elias, die bis 1945 in Bodenbach
 
 1. **Hildegard Elias geb. Winter**, * 14. 6. 1909 Bodenbach, † [Datum] in [Ort] (Sterberegister [Standesamt, Nr.])
 2. **Franz Robert Albin Elias**, * 17. 7. 1909 Bodenbach, † [Datum] in [Ort] (Sterberegister [Standesamt, Nr.])
-3. **Franziska Winter geb. Schwarz**, † 2. 4. 1959 [Ort]
+3. **Franziska Winter geb. Schwarz**, * 25. 4. 1878, zuletzt Altersheim Simmershausen, † 2. 4. 1959 [Ort]
 
 Falls Akten vorhanden sind, bitte ich um Mitteilung der **Erben** (Namen und damalige Anschriften) bzw. um **Einsicht in die Akte** oder um Kopien eines vorhandenen Testaments und Erbscheins. Mein berechtigtes Interesse besteht in der familien- und ortsgeschichtlichen Forschung: Ich möchte die Nachkommen über die Geschichte ihres früheren Familienbetriebs in Bodenbach informieren und Kontakt zu ihnen aufnehmen. Die Daten verwende ich ausschließlich zu diesem Zweck.
 
