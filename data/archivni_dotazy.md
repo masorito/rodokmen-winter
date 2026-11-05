@@ -18,3 +18,8 @@ Co by šlo zjistit jen v badatelně archivu nebo na matričním úřadě (a pro�
 - **Po 1945**: SOkA Děčín – MNV Podmokly / ONV Děčín: národní správa a konfiskace domů čp. 332/333 a 576, osvědčení o národní spolehlivosti, žádosti o ponechání čs. občanství (Franz Eliáš – české jméno!), seznamy odsunutých (transporty 1946). Dále pozemková kniha Podmokly (čp. 332, 333) – vlastníci po 1945.
 - **Německo**: Sudetendeutsche Heimatkartei / Heimatkreis Tetschen-Bodenbach (Heimatkreisbetreuer), DRK-Suchdienst München, Arolsen Archives – hledat Hildegard Elias * 14. 6. 1909, Franz Elias * 17. 7. 1909, Gerda Elias * 19. 1. 1942, Franziska Winter * 25. 4. 1878.
 - **Starší Rudolf Winter, cukrář v Bodenbachu 1874** (kmotr): živnostenský rejstřík okresu Děčín 1865–1895 (SOkA Děčín, Okresní úřad Děčín) – kdo založil cukrárnu „1865“; adresáře Tetschen-Bodenbach 1912/1939 (GenWiki, digitalizace SOA Litoměřice – web chráněn proti robotům, otevřít ručně v prohlížeči).
+
+## Odeslané dotazy – stav (11/2026)
+- **Stadt Kassel, Meldebehörde** (einfache Melderegisterauskunft Gerda a Ingeborg Elias): odpověď 11/2026 – poplatek 2 × 10 € předem, doklad totožnosti + potvrzení platby. Odeslán dotaz na účel platby + kopie OP. **Čeká se** na odpověď → zaplatit → poslat potvrzení.
+- **Stadtarchiv Kassel** (Einwohnermeldekartei Kirchweg 28, úmrtní zápisy Hildegard/Franz, místo úmrtí Fanni): odpověď 11/2026 – 12,25 € / 15 min, bez předběžného odhadu. Objednáno s limitem 100 €, pořadí: 1. kartotéka, 2. úmrtní zápisy, 3. Fanni. **Čeká se** na výsledek.
+- **Amtsgericht Kassel, Nachlassgericht** (dědické spisy): připraveno (vystupy/zadosti_kassel_potomci.md, dopis B) – odeslat po zjištění dat úmrtí.
