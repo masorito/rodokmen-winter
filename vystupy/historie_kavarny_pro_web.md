@@ -26,7 +26,8 @@ Dům čp. 332 po válce převzal stát; v roce 1954 ho úřady popisují jako �
 | Rok / datum | Událost | Jistota | Pramen |
 |---|---|---|---|
 | 1865 | Na firemním papíře uváděno „Gegründet 1865“ | **[hypotéza]** – viz oddíl 4 | dopis 31. 3. 1923, stavební spis |
-| 1874 | V Podmoklech už působí cukrář jménem Rudolf Winter (kmotr našeho Rudolfa) | **[doloženo]** | matrika Prunéřov, SOA Litoměřice L123/6, sn. 140 |
+| 17. 4. 1841 | Narození Rudolfa Wintera staršího, Prunéřov čp. 119 – mladší bratr Josefa, strýc našeho Rudolfa | **[doloženo]** | matrika narozených Prunéřov L123/5, sn. 189 |
+| 1874 | V Podmoklech už působí cukrář Rudolf Winter st. (kmotr a strýc našeho Rudolfa) | **[doloženo]** | matrika Prunéřov, SOA Litoměřice L123/6, sn. 140 |
 | duben 1883 | Rudolf Winter je **jediný cukrář v Podmoklech** („Conditoreien: Rudolf Winter“); dílna v Nieder-Weiheru č. 41 (v nájmu) – **jen dva domy od pozdější kavárny** (sousední č. 39 = pozdější čp. 332) | **[doloženo]** | Adress-Buch von Tetschen-Bodenbach 1883 |
 | 15. 5. 1874 | Narození Rudolfa Wintera, Prunéřov čp. 119; otec Josef Winter, obuvnický mistr, matka Marie roz. Weitzdörferová | **[doloženo]** | matrika narozených Prunéřov, L123/6, sn. 140 |
 | 1889–1892 | Učení v Kadani | uvedeno archivním historikem | – |
@@ -43,6 +44,7 @@ Dům čp. 332 po válce převzal stát; v roce 1954 ho úřady popisují jako �
 | 1920–1921 | Elektromotor pro šlehací stroj, chladicí a mrazicí zařízení | **[doloženo]** | stavební spis |
 | 15. 2. 1921 | Sčítání: v čp. 332 žije Rudolf, Fanni, Hildegard, cukrářský pomocník, dva učni a dvě služebné; čp. 333 = pekárna, majitel Rudolf | **[doloženo]** | sčítání lidu 1921, SOkA Děčín |
 | 31. 3. 1923 | Dopisní papír „Konditorei Rudolf Winter Café – Bodenbach, Bahnhofstraße – Gegründet 1865“ | **[doloženo]** | stavební spis |
+| 15. 3. 1907 | Umírá strýc Rudolf Winter st., cukrář v Podmoklech čp. 87 (65 let); 23. 4. 1907 i jeho žena Aloisia | **[doloženo]** | matrika zemřelých Podmokly 133/132, sn. 53 |
 | 9. 8. 1926 | Úmrtí Rudolfa Wintera (52 let), vada srdeční chlopně; pohřben 12. 8. 1926 | **[doloženo]** | matrika zemřelých Podmokly 133/132, sn. 218 |
 | 19. 5. 1932 | Svatba Hildegardy Winterové a cukráře Franze Roberta Albina Eliáše (* 17. 7. 1909), syna ředitele továrny Franze Eliáše | **[doloženo]** | matrika oddaných Podmokly 133/123, sn. 223 |
 | 1934 | Adresář: „Winter Fanny, Konditorei, Bahnhofstraße 332“; „Elias Franz, Konditor, Bahnhofstraße 332“ | **[doloženo]** | Adressbuch des politischen Bezirkes Tetschen 1934, s. 229 a 304 |
@@ -78,7 +80,7 @@ Dům čp. 332 po válce převzal stát; v roce 1954 ho úřady popisují jako �
 
 ### 4. Otevřené otázky (na webu jen opatrně nebo vůbec)
 
-- **Proč „Gegründet 1865“?** Když byl Rudolf v roce 1874 pokřtěn, byl jeho kmotrem jmenovec **Rudolf Winter, „cukrář v Podmoklech“**. V dubnu 1883 je Rudolf Winter podle adresáře **jediný cukrář v Podmoklech** a jeho dílna stojí v Nieder-Weiheru č. 41 – **jen dva domy od domu, který se později stal kavárnou** (č. 39 = čp. 332). Je tedy velmi pravděpodobné, že rok 1865 patří firmě tohoto staršího Rudolfa Wintera (nejspíš strýce) a mladší Rudolf jeho podnik převzal. **[pravděpodobné – převod firmy ani příbuzenství zatím přímo doloženy nejsou]** Možná formulace pro web: *„Firma uváděla rok založení 1865. Cukrářská tradice jména Winter je v Podmoklech doložena od roku 1874; v roce 1883 byl Rudolf Winter jediným cukrářem ve městě a jeho dílna stála jen pár domů od pozdější kavárny.“*
+- **Proč „Gegründet 1865“?** Nově doloženo: kmotr našeho Rudolfa, **cukrář Rudolf Winter starší, byl jeho strýc** – mladší bratr otce Josefa. Narodil se **17. 4. 1841 v Prunéřově** v domě čp. 119 obuvníkovi Antonu Winterovi (stejní rodiče jako Josef) **[doloženo – křestní matrika Prunéřov]**. V Podmoklech byl cukrářem nejpozději od roku 1874, v roce 1883 jako jediný ve městě (Nieder-Weiher č. 41, dva domy od pozdější kavárny), naposledy bydlel v čp. 87. Manželka Aloisia roz. Herschmannová pocházela ze Žatce. **Zemřel 15. 3. 1907**, manželka o pět týdnů později **[doloženo – matrika zemřelých Podmokly]**. Děti zřejmě neměli. Rok 1865 tedy téměř jistě patří **podniku strýce Rudolfa**, kterého synovec – rovněž cukrář a jmenovec – následoval do Podmokel a jehož tradici převzal. **[pravděpodobné – samotný převod firmy ani rok 1865 zatím doloženy nejsou]** Možná formulace pro web: *„Cukrárnu založil v roce 1865 Rudolf Winter starší, rodák z Prunéřova u Kadaně. Jeho synovec a kmotřenec Rudolf přišel do Podmokel v roce 1903 a rodinnou cukrářskou tradici převzal – od roku 1912 už v domě čp. 332.“* (Slovo „založil v roce 1865“ formulovat opatrně, např. „firma uváděla založení 1865“.)
 - V adresáři z roku 1934 je v Podmoklech ještě **Leo Winter, cukrář, Theodor-Körner-Straße 740**. Jeho vztah k rodině zatím neznáme.
 - **Kdy a kde zemřeli Hildegard a Franz Elias** (po roce 1963, nejspíš v Kasselu) a zda žijí potomci – dotazy v Kasselu běží.
 - **Kdo je mistr na fotografii z pekárny** (muž s knírem a pět učňů, asi 1905–1914) – možná Rudolf Winter, ale nedoloženo. Na webu jen s formulací „pravděpodobně pekárna Winterových“ nebo „dobová cukrářská dílna“.
