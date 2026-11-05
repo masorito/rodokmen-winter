@@ -12,5 +12,7 @@ Datace jsou odhady (≈), pokud není uvedeno jinak.
 | 1903_zadost_zivnost_str1_maly.jpg, …_str2_maly.jpg | Žádost Rudolfa Wintera c. k. okresnímu hejtmanství v Děčíně (1903, s kolky) – zatím jen malé rozlišení | 1903 |
 | 1890_povoden_ulice_pod_skalou_hotel.jpg | Povodeň v ulici pod skálou: vlevo hotel, v pozadí řada domů a železniční tunel; razítko fotografa „Adolf Albert, Photograph, Bodenbach“ (?) | ≈ 1890 (velká povodeň 9/1890 – hypotéza) |
 | 1910_pekarna_mistr_s_ucni.jpg | Pekárna/cukrářská dílna: mistr s knírem a 5 učňů, cihlová pec, litinový sloup (odpovídá podpěrám v plánu pekárny), cedule „Nicht auf den Fußboden spucken!“. Hypotéza: pekárna Winter za čp. 332, mistr Rudolf Winter – nedoloženo | ≈ 1905–1914 |
+| 1925_hotel_touristen_u_tunelu.jpg | Hotel Touristen u železničního tunelu pod Pastýřskou stěnou, dvojjazyčné nápisy „Cizinské pokoje / Fremden-Zimmer“ (→ období ČSR 1918–1938). Hotel stál dva domy od kavárny Winter (viz povodeň 1940) | ≈ 1920–1938 |
+| 1895_rada_domu_pod_skalou_maly.jpg | Řada domů pod skálou v původní podobě (stejný snímek jako spodní část srovnání), malé rozlišení | ≈ 1890–1900 |
 
-Další snímky (povodeň 18. 3. 1940 s „Konditorei und Café“, plán přestavby „Skizze über die Vergrößerung des Ladens…“, Hotel Touristen) – doplnit soubory.
+Další snímky (povodeň 18. 3. 1940 s „Konditorei und Café“, plán přestavby „Skizze über die Vergrößerung des Ladens…“) – doplnit soubory.
