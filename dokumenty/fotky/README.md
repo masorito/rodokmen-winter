@@ -15,5 +15,7 @@ Datace jsou odhady (≈), pokud není uvedeno jinak.
 | 1925_hotel_touristen_u_tunelu.jpg | Hotel Touristen u železničního tunelu pod Pastýřskou stěnou, dvojjazyčné nápisy „Cizinské pokoje / Fremden-Zimmer“ (→ období ČSR 1918–1938). Hotel stál dva domy od kavárny Winter (viz povodeň 1940) | ≈ 1920–1938 |
 | 1895_rada_domu_pod_skalou_maly.jpg | Řada domů pod skálou v původní podobě (stejný snímek jako spodní část srovnání), malé rozlišení | ≈ 1890–1900 |
 | **1940_povoden_konditorei_und_cafe_winter.jpg** | **Povodeň 18. 3. 1940 („Bodenbach im Hochwasser der Elbe 18. 3. 1940“). Vlevo nápis „…EI UND CAFE“ = Konditorei und Café Winter (čp. 332), vedle „Strickwaren Schubert“, dál Hotel Touristen, vpravo železniční viadukt a Pastýřská stěna. Jediný známý snímek kavárny za provozu Winterových** | 18. 3. 1940 |
+| **1912_plan_prizemi_kavarna_kram_pekarna.jpg** | Plán přízemí „Skizze über die Vergrößerung des Ladens sowie Einbau von Aborten daselbst, für Herrn R. Winter Zuckerbäcker in Bodenbach Nr. 332 ‚Am Weiher‘“, 1 : 100: do ulice krám (Laden, š. 4,40 m) a kavárna (Kaffeeschank, ≈ 4,5 × 6,1 m), za nimi kávová kuchyně, schodiště, pisoár a WC; přes dvůr pekárna (Backraum/Bäckerei, ≈ 10 × 5,85 m), kůlna; vlevo dům pana Schulze. České popisky dopsány později | ≈ 1912 (přestavba přízemí na kavárnu – datace podle stavebního spisu, hypotéza) |
+| **1912_plan_pohled_fasada.jpg** | Pohled na uliční fasádu („Ansicht / Pohled“): přízemí s bosáží, dvě výkladní okna (krám a kavárna) a dvoje dveře, nad nimi dvě patra; vlevo nižší přístavek (na poválečném snímku terasa/balkon nad Mototechnou) | ≈ 1912 |
 
-Další snímky (plán přestavby „Skizze über die Vergrößerung des Ladens…“) – doplnit soubory.
+
