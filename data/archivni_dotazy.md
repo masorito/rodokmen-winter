@@ -20,6 +20,6 @@ Co by šlo zjistit jen v badatelně archivu nebo na matričním úřadě (a pro�
 - **Starší Rudolf Winter, cukrář v Bodenbachu 1874** (kmotr): živnostenský rejstřík okresu Děčín 1865–1895 (SOkA Děčín, Okresní úřad Děčín) – kdo založil cukrárnu „1865“; adresáře Tetschen-Bodenbach 1912/1939 (GenWiki, digitalizace SOA Litoměřice – web chráněn proti robotům, otevřít ručně v prohlížeči).
 
 ## Odeslané dotazy – stav (11/2026)
-- **Stadt Kassel, Meldebehörde** (einfache Melderegisterauskunft Gerda a Ingeborg Elias): odpověď 11/2026 – poplatek 2 × 10 € předem, doklad totožnosti + potvrzení platby. Odeslán dotaz na účel platby + kopie OP. **Čeká se** na odpověď → zaplatit → poslat potvrzení.
+- **Stadt Kassel, Meldebehörde** (einfache Melderegisterauskunft Gerda a Ingeborg Elias): odpověď 11/2026 – poplatek 2 × 10 € předem, doklad totožnosti + potvrzení platby. Kopie OP odeslána; 11/2026 zaplaceno 20 € (účel „Melderegisterauskunft Elias – Masojídek“), poslána poštovní adresa a potvrzení platby. Výpis přijde **poštou** (případně i sken e-mailem). **Čeká se.**
 - **Stadtarchiv Kassel** (Einwohnermeldekartei Kirchweg 28, úmrtní zápisy Hildegard/Franz, místo úmrtí Fanni): odpověď 11/2026 – 12,25 € / 15 min, bez předběžného odhadu. Objednáno s limitem 100 €, pořadí: 1. kartotéka, 2. úmrtní zápisy, 3. Fanni. **Čeká se** na výsledek.
 - **Amtsgericht Kassel, Nachlassgericht** (dědické spisy): připraveno (vystupy/zadosti_kassel_potomci.md, dopis B) – odeslat po zjištění dat úmrtí.
