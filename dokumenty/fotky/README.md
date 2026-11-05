@@ -10,5 +10,7 @@ Datace jsou odhady (≈), pokud není uvedeno jinak.
 | srovnani_dnes_a_1900.jpg | Srovnání: dnešní stav Třídy Čs. mládeže × stejná řada domů pod skálou | dnes × ≈ 1890–1900 |
 | 1970_cp332_mototechna_snaha.jpg | Čp. 332 (dům s trojúhelníkovým štítem) s prodejnou Mototechna, vpravo SNAHA – identifikace potvrzena majitelem dnešní kavárny | ≈ 1970–1985 |
 | 1903_zadost_zivnost_str1_maly.jpg, …_str2_maly.jpg | Žádost Rudolfa Wintera c. k. okresnímu hejtmanství v Děčíně (1903, s kolky) – zatím jen malé rozlišení | 1903 |
+| 1890_povoden_ulice_pod_skalou_hotel.jpg | Povodeň v ulici pod skálou: vlevo hotel, v pozadí řada domů a železniční tunel; razítko fotografa „Adolf Albert, Photograph, Bodenbach“ (?) | ≈ 1890 (velká povodeň 9/1890 – hypotéza) |
+| 1910_pekarna_mistr_s_ucni.jpg | Pekárna/cukrářská dílna: mistr s knírem a 5 učňů, cihlová pec, litinový sloup (odpovídá podpěrám v plánu pekárny), cedule „Nicht auf den Fußboden spucken!“. Hypotéza: pekárna Winter za čp. 332, mistr Rudolf Winter – nedoloženo | ≈ 1905–1914 |
 
-Další snímky (povodeň 18. 3. 1940 s „Konditorei und Café“, plán přestavby „Skizze über die Vergrößerung des Ladens…“, pekárna s učni, Hotel Touristen, povodeň ≈ 1890) – doplnit soubory.
+Další snímky (povodeň 18. 3. 1940 s „Konditorei und Café“, plán přestavby „Skizze über die Vergrößerung des Ladens…“, Hotel Touristen) – doplnit soubory.
