@@ -97,3 +97,10 @@ Odkazy: https://orka.bibliothek.uni-kassel.de/viewer/fullscreen/1382947338432_<r
 - Hildegard Elias ani Franziska Winter v adresářích města Kassel 1953–1962 nejsou (Fanni byla v domově důchodců).
 - Jiní Eliasové v Kasselu (Hermann, rentiér, Hentzestr. 6; Anna, rentiérka tamtéž 1961; Herbert, stavebník/zedník, Kohlenstr. 37) – vztah neznámý.
 - Pokračování 1963–1971 (ORKA): Franz Elias do 1965 Lagerarbeiter, od 1967 Rentner, do 1971 stále v Kasselu (různé adresy). V téže domácnosti po celou dobu Ingeborg/Ingeburg Elias, úřednice – spíš dcera než manželka (neověřeno; může žít, údaje jen základní). Ročníky od 1973 online nejsou.
+
+## Dobové fotografie a plány (od uživatele, 11/2026)
+- **Potvrzení majitele kavárny (uživatel):** dům čp. 332 (dnes Třída Čs. mládeže 47) je dům s trojúhelníkovým štítem a kulatým okénkem; po válce v něm byla **Mototechna** (vedle prodejna družstva SNAHA), dnes v něm uživatel provozuje kavárnu.
+- **Povodeň 18. 3. 1940** (pohlednice „Bodenbach im Hochwasser der Elbe 18. 3. 1940“): vlevo nápis „…EI UND CAFE“ (= Konditorei und Café Winter), vedle „Strickwaren Schubert“, dál Hotel Touristen u železničního viaduktu. Jediný dosud známý snímek kavárny za provozu Winterových.
+- **Plán „Skizze über die Vergrößerung des Ladens sowie Einbau von Aborten daselbst, für Herrn R. Winter Zuckerbäcker in Bodenbach Nr. 332 ‚Am Weiher‘“** (1 : 100): do ulice krám (š. 4,40 m) a kavárna „Kaffeeschank“ (cca 4,5 × 6,1 m), za nimi Kaffee-Küche, schodiště, pisoár a WC; přes dvůr pekárna (Backraum, cca 10 × 5,85 m, dvě podpěry), kůlna; soused vlevo „Haus des Herrn Schulz“.
+- **Fotografie pekárny** (mistr s knírem a 5 učňů, cihlová pec, litinový sloup, cedule „Nicht auf den Fußboden spucken!“) – kdo je na snímku a kdy, nedoloženo (hypotéza: Rudolf Winter, asi 1905–1914).
+- Další: Podmokly pod Pastýřskou stěnou asi 1870–80; povodeň asi 1890 (fotograf Adolf Albert?); kolorovaná pohlednice s domem „…ilipp Schulz“ (asi soused čp. 332); poválečný snímek Mototechna/SNAHA; srovnání dnes × asi 1890–1900; Hotel Touristen u tunelu. Původ jednotlivých snímků (sbírka, autor) zatím nezapsán – nutné před zveřejněním.
