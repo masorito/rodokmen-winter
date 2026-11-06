@@ -1,6 +1,6 @@
 # Příběh Kytek pod komínem: revidovaný text (web a menu)
 
-*Revize podle archivního výzkumu k 6. 11. 2026. Údaje o domě (rok 1881, mýdlárna, 18 m vysoký komín), o rekonstrukci a o nálezu ve studni pocházejí od majitelů a nechal jsem je beze změny.*
+*Revize podle archivního výzkumu k 6. 11. 2026 (stavební spis domu, matriky, adresáře). Údaje o rekonstrukci, o nálezu ve studni a o výšce komína (18 m) pocházejí od majitelů.*
 
 ---
 
@@ -8,7 +8,9 @@
 
 Příběh Kytek pod komínem začal dávno předtím, než jsme tu připravili první kávu.
 
-Dům stojí pod pískovcovou skálou v místě, kterému se kdysi říkalo „Am Weiher“, U rybníka. Původní stavení vyhořelo v srpnu 1880 a v roce 1881 tu vyrostl nový dům. Zpočátku v něm byla mýdlárna, pro kterou vznikl i výrazný, 18 metrů vysoký cihlový komín, který místu dominuje dodnes. Později tu sídlily dílny a obchod s kůžemi.
+Dům stojí pod pískovcovou skálou v místě, kterému se kdysi říkalo „Am Weiher“, U rybníka. Původní stavení vyhořelo v srpnu 1880. Na jeho místě vyrostl nájemní dům s malými byty, dokončený v létě 1881.
+
+Na přelomu století se z domu stalo místo řemesel a drobné výroby. Byl tu obchod s kůžemi, krátce výrobna mýdel a parfémů, dílna na acetylenové lampy a v letech 1909–1911 dílny a malá továrna na kovové zboží. K této dílenské a tovární éře nejspíš patří i výrazný, 18 metrů vysoký cihlový komín, který místu dominuje dodnes. Tak vysoké komíny se pro pekárny nestavěly. Přesně kdy a pro koho vznikl, prameny zatím neuvádějí.
 
 Cukrářská tradice jména Winter je v Podmoklech ale ještě starší. Firma později uváděla na svém dopisním papíře „Gegründet 1865“, tedy založeno 1865. Už v 70. letech 19. století tu působil cukrář **Rudolf Winter starší**, rodák z Prunéřova u Kadaně. V roce 1883 byl jediným cukrářem ve městě a jeho dílna stála jen dva domy odsud.
 
@@ -42,6 +44,8 @@ A my k němu teď píšeme další kapitolu.
 
 Kávu tu podávali už v roce 1912.
 
+Dům pod pískovcovou skálou byl postaven v roce 1881 po požáru staršího stavení. Na přelomu století v něm sídlily dílny a malá výroba, k nimž nejspíš patří i 18metrový cihlový komín.
+
 Cukrářská rodina Winterových působila v Podmoklech už od 19. století. Na dopisním papíře firmy stálo „Gegründet 1865“. Cukrář **Rudolf Winter** přišel do Podmokel se svou ženou **Franziskou** v roce 1903. Kolem roku 1911 koupil tento dům a v roce 1912 v něm otevřel cukrárnu s malou kavárnou o pouhých 27 m². Za ní stála kávová kuchyně a přes dvůr pekárna, na místě dnešní zahrady.
 
 Po Rudolfově smrti v roce 1926 vedla podnik jeho žena **Fanni** a později dcera **Hildegard** s manželem, také cukrářem. Ještě v roce 1940 svítil nad výlohou nápis „Konditorei und Café“. Válka podnik ukončila a v létě 1945 musela rodina odejít do Německa.
@@ -64,6 +68,7 @@ Naše pokoje nad kavárnou nesou jména **Rudolf, Franziska a Hilda**.
 | „více než čtyřicetiletý příběh skončil po válce s odsunem“ | živnost ukončena **v listopadu 1942**, rodina odešla **v létě 1945** do Kasselu | rejstřík živností; sdělení SOkA Děčín |
 | „po více než sto letech se vrátilo pečení“ | „po více než **osmdesáti** letech“ | pečení skončilo v roce 1942, kavárna otevřela 2024 (82 let). U nálezu ve studni „před více než stoletím“ zůstává, protože předměty jsou z let 1912–1926 |
 | (nebylo) | povodeň 1940 s nápisem „Konditorei und Café“, kavárna 27 m², Fanni † 1959 | dobová fotografie, plán, sdělení SOkA Děčín |
-| „Dům byl postaven v roce 1881“ | „Původní stavení vyhořelo v srpnu 1880 a v roce 1881 tu vyrostl nový dům“ | stavební spis uvádí požár 28. 8. 1880. Rok 1881 a mýdlárnu s komínem jsem převzal od vás |
+| „Dům byl postaven v roce 1881“ | ponecháno a upřesněno: po požáru 28. 8. 1880 postaven jako nájemní dům, kolaudace 25. 6. 1881 | stavební spis |
+| „Zpočátku zde fungovala mýdlárna, pro kterou byl postaven komín“ | dílny a výroba na přelomu století: kůže (1900), mýdla a parfémy (1901–1903, krátce), acetylenové přístroje (1904), kovové zboží (1909–1911); komín „nejspíš“ k této éře | stavební spis. Mýdlárna nebyla „zpočátku“ a vydržela jen asi dva roky; ke komínu spis nic neuvádí. To, že se tak vysoký komín pro pekárnu nestavěl, je informace od majitelů |
 
 **Záměrně jsem vynechal:** jména a údaje osob, které mohou žít (Gerda * 1942 a další potomci), a odkazy na archivní kartotéky.
