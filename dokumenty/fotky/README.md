@@ -19,3 +19,4 @@ Datace jsou odhady (≈), pokud není uvedeno jinak.
 | **1912_plan_pohled_fasada.jpg** | Pohled na uliční fasádu („Ansicht / Pohled“): přízemí s bosáží, dvě výkladní okna (krám a kavárna) a dvoje dveře, nad nimi dvě patra; vlevo nižší přístavek (na poválečném snímku terasa/balkon nad Mototechnou) | ≈ 1912 |
 
 
+| **nalez_studna_konvicka_rudolf_winter.jpg** | Nález ze studny na zahradě čp. 332: malá versilberovaná konvička na smetanu/mléko (porcovaná, k jedné kávě). Na dně vyraženo: „RUDOLF WINTER“ (jméno podniku), „2 cl“ (objem 2 centilitry = 20 ml, porce smetany), značka výrobce v rámečku „Dr. LÖB“ (Dr. Löb & Co., Nürnberg – výrobce hotelového a kavárenského stříbra) a „90“ v kroužku (stupeň postříbření: 90 g stříbra na 24 dm² povrchu – běžná hotelová kvalita). | ≈ 1912–1930s (firma Dr. Löb vyráběla hotelové stříbro zejména ve 20.–30. letech; jméno podniku „Rudolf Winter“ se užívalo i po r. 1926) |
