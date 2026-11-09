@@ -107,3 +107,15 @@ Odkazy: https://orka.bibliothek.uni-kassel.de/viewer/fullscreen/1382947338432_<r
 
 ## Nález ve studně (majitel kavárny, 11/2026)
 - Ve studni na zahradě čp. 332, **hned pod povrchem, pečlivě poskládané**: tácky, konvičky (mj. smetánka 2 cl „RUDOLF WINTER“, výrobce Dr. Löb & Co. Nürnberg, postříbření 90), několik vázicek a sošek. Uspořádání ukazuje na **záměrné ukrytí** – nejspíš rodinou před odsunem v létě 1945 (hypotéza silně podpořená okolnostmi nálezu; Winterovi/Eliasovi bydleli v domě až do odsunu). Fotografie značek dalších kusů doplní majitel.
+
+## Pozemková kniha k. ú. Podmokly, vložka č. 1411 (výpis z katastrálního úřadu, 11/2026)
+Soubor: dokumenty/katastr/pozemkova_kniha_Podmokly_vl1411_cp332.pdf (listy A a B, str. 541–542; list C – zatížení/hypotéky – není součástí kopie).
+**List A (statkový):** „Wohnhaus NC 332“, tužkou „(zbořen, č. d. 230?/58)“ – čtení nejisté; nejspíš se týká dvorní budovy čp. 333 (pekárna, dnes zahrada), protože dům čp. 332 stojí.
+- poř. 1: parc. č. 634 – stavební parcela, obytný dům čp. 332
+- poř. 2: parc. č. 636 – stavební parcela, dvorní budova (Hofgebäude) čp. 333
+- Zápis 1 (došlo 9. 9. 1924, TZ 1922/24): parcely odepsané z vložky č. 643 se zapisují sem → vložka 1411 založena 1924, předtím byl dům ve vložce **643**.
+**List B (vlastnický):**
+- „Došlo 9. 9. 1924 TZ 1922: z vložky 643 sem přeneseno“: původní zápis **došlo 4. 12. 1911, TZ 2919**: na základě **kupní smlouvy ze dne 27. listopadu 1911** se vkládá vlastnické právo pro **a) Rudolfa Wintera na polovinu, b) Franzisku Winter na polovinu**.
+- poř. 2 (ad a): došlo 24. 6. 1927, č. d. 1853: podle **odevzdací listiny ze dne 23. 6. 1927, čj. D VII 303/26-14** (pozůstalostní řízení po Rudolfovi, okresní soud Děčín) se vkládá vlastnické právo pro **Františku Winterovou na polovinu** → od 1927 jediná vlastnice celého domu.
+- poř. 3 (ad 1, 2): došlo 30. 4. 1952, č. d. 480: podle prohlášení **Krajského národního výboru v Ústí n. L. o převodu konfiskovaného nemovitého majetku** ze dne 1. 12. 1949, čj. U III-234/49 (čtení čísla nejisté), se vkládá vlastnické právo pro **Československý stát** (správa: místní národní výbor v Děčíně) → konfiskace (dekret č. 108/1945 Sb.).
+**Nové stopy:** pozůstalostní spis D VII 303/26 (Okresní soud Děčín, SOkA Děčín) – soupis pozůstalosti 1926/27 (vybavení cukrárny?); kupní smlouva 27. 11. 1911 ve sbírce listin (TZ 2919/1911) – prodávající, cena; vložka 643 a list C (hypotéky).
