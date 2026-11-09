@@ -9,7 +9,7 @@
 
 Rudolf Winter se narodil 15. května 1874 v Prunéřově u Kadaně v rodině obuvnického mistra. V letech 1889–1892 se vyučil v Kadani a stal se cukrářem. V lednu 1903 se v kostele sv. Jiljí v Teplé oženil s Franziskou – Fanni – Schwarzovou, dcerou mlynáře z Mrázovského mlýna u Teplé. Jen čtyři dny po svatbě, 12. ledna 1903, se novomanželé přistěhovali do Podmokel a v březnu téhož roku Rudolf ohlásil cukrářskou živnost v domě čp. 337.
 
-Kolem roku 1911 Rudolf koupil dům čp. 332 v Nádražní ulici (Bahnhofstraße) – dnes Třída Čs. mládeže 47. Dům předtím sloužil jako nájemní dům s dílnami: byl tu obchod s kůžemi, výrobna mýdel a parfémů i dílny na kovové zboží. Rudolf v roce 1912 přestavěl přízemí na kavárnu, požádal o kavárenskou koncesi a v sousedním domě čp. 333 provozoval pekárnu a cukrářskou výrobnu. Ve 20. letech pořídil elektrický šlehací stroj a chladicí a mrazicí zařízení. Na dopisním papíře podniku stálo „Konditorei Rudolf Winter Café – Bodenbach, Bahnhofstraße – Gegründet 1865“.
+V listopadu 1911 Rudolf a Fanni koupili dům čp. 332 v Nádražní ulici (Bahnhofstraße) – dnes Třída Čs. mládeže 47. Dům předtím sloužil jako nájemní dům s dílnami: byl tu obchod s kůžemi, výrobna mýdel a parfémů i dílny na kovové zboží. Rudolf v roce 1912 přestavěl přízemí na kavárnu, požádal o kavárenskou koncesi a v sousedním domě čp. 333 provozoval pekárnu a cukrářskou výrobnu. Ve 20. letech pořídil elektrický šlehací stroj a chladicí a mrazicí zařízení. Na dopisním papíře podniku stálo „Konditorei Rudolf Winter Café – Bodenbach, Bahnhofstraße – Gegründet 1865“.
 
 Rudolf zemřel 9. srpna 1926 ve věku 52 let na vadu srdeční chlopně. Cukrárnu dál vedla vdova Fanni a od roku 1934 i dcera Hildegard, rovněž cukrářka, která se v roce 1932 provdala za cukráře Franze Eliáše. Hildegard získala v roce 1934 živnostenský list i koncesi k podávání kávy, čaje, čokolády a likérů. Ještě v adresáři z roku 1934 je zapsáno „Winter Fanny, Konditorei, Bahnhofstraße 332“.
 
@@ -38,6 +38,7 @@ Dům čp. 332 po válce převzal stát; v roce 1954 ho úřady popisují jako �
 | 14. 6. 1909 | Narození dcery Hildegard v Podmoklech | **[doloženo]** | sčítání 1921; oddací matrika 1932 |
 | 1880–1910 | Dům čp. 332 (dříve č. 39 ve Weiheru): po požáru 1880 přestavěn na nájemní dům; majitelé Zeischkeovi, pak Sonntagovi; obchod s kůžemi, mýdlárna, dílny na kovové zboží – **cukrárna zde tehdy nebyla** | **[doloženo]** | stavební spis domu čp. 332 |
 | 24. 8. 1910 | Majitelem domu je ještě Otto Sonntag | **[doloženo]** | stavební spis |
+| 27. 11. 1911 | Kupní smlouva: Rudolf a Franziska Winterovi kupují dům čp. 332 a dvorní budovu čp. 333, každý polovinu (vklad 4. 12. 1911) | **[doloženo]** | pozemková kniha Podmokly, vl. 1411 |
 | 10. 1. 1912 | Rudolf Winter už píše o „svém domě čp. 332“ – žádost o úpravu prodejny a WC | **[doloženo]** | stavební spis |
 | 1912 | Přestavba přízemí na kavárnu („Kaffeeschank“, asi 4,5 × 6,1 m) vedle krámu, za nimi kávová kuchyně, přes dvůr pekárna; 22. 8. 1912 žádost o kavárenskou koncesi | **[doloženo]** | stavební spis; plán „Skizze über die Vergrößerung des Ladens…“ |
 | 1913 | Kolaudace přestavby | **[doloženo]** | stavební spis |
@@ -52,6 +53,7 @@ Dům čp. 332 po válce převzal stát; v roce 1954 ho úřady popisují jako �
 | 11. 7. 1934 | Živnostenský list na cukrářskou živnost, Hildegard Eliášová | **[doloženo]** | rejstřík živností okresu Děčín, č. 119 |
 | 19. 9. 1934 | Koncese hostinská a výčepní: káva, čaj, čokoláda, teplé nápoje, jemné likéry | **[doloženo]** | stavební spis |
 | 11. 3. 1935 | Povolení k užívání hostinských místností | **[doloženo]** | stavební spis |
+| 23. 6. 1927 | Po Rudolfově smrti připadá jeho polovina domu Fanni – od té doby jediná vlastnice | **[doloženo]** | pozemková kniha, odevzdací listina D VII 303/26 |
 | 1938–1939 | Fanni Winter je stále majitelkou domu čp. 332 | **[doloženo]** | stavební spis |
 | 1941 | Úřední změna příjmení Eliáš → Elias | **[doloženo]** | přípis v oddací matrice |
 | 19. 1. 1942 | Narození dcery Gerdy | **[doloženo]** | přípis v oddací matrice |
@@ -62,6 +64,7 @@ Dům čp. 332 po válce převzal stát; v roce 1954 ho úřady popisují jako �
 | 27. 9. 1954 | V Kasselu, Kirchweg 28, umírá Franz Elias st.; úmrtí ohlásila Hildegard Elias – žije tedy v Kasselu | **[doloženo]** | Standesamt Kassel I, Sterberegister 1954 č. 1784 |
 | 1955–1971 | Franz Elias v kasselských adresářích: 1955–57 cukrář (Konditor), 1959–65 skladník, od 1967 důchodce | **[doloženo]** | Kasseler Adressbuch (UB Kassel) |
 | 2. 4. 1959 | Úmrtí Fanni Winter; před smrtí v domově důchodců Simmershausen u Kasselu | **[doloženo]** (místo úmrtí zatím nezjištěno) | sdělení SOkA Děčín |
+| 1949 / 1952 | Dům zkonfiskován (dekret 108/1945); 1952 zapsán jako vlastník Československý stát | **[doloženo]** | pozemková kniha |
 | 1954 | Dům ve správě státu, „bývalá cukrářská provozovna“ přestavována na byt | **[doloženo]** | stavební spis |
 | asi 1970–1985 | V přízemí prodejna Mototechna (vedle SNAHA) | **[doloženo]** | dobová fotografie; potvrzeno majitelem domu |
 | dnes | V domě čp. 332 opět kavárna | **[doloženo]** | – |

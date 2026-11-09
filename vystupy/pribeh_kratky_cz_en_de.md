@@ -10,7 +10,7 @@ Cukrářská tradice jména Winter je v Podmoklech ještě starší. Firma uvád
 
 Jeho synovec a kmotřenec, rovněž Rudolf Winter, se narodil v roce 1874 v Prunéřově a vyučil se cukrářem v Kadani. V roce 1903 se oženil s Franziskou Schwarzovou, dcerou mlynáře od Teplé, a otevřel vlastní cukrářství v nedalekém domě čp. 337. Po strýcově smrti v roce 1907 nesl rodinnou tradici dál.
 
-Kolem roku 1911 Rudolf koupil tento dům. V roce 1912 tu vznikl cukrářský krám, vedle něj malá kavárna, sotva 27 m² a pár stolků, a přes dvůr pekárna. Káva se tak v tomto domě podává už od roku 1912. Hosté sem chodili za dorty, zákusky, kávou a čokoládou se šlehačkou.
+V listopadu 1911 koupili Rudolf a Franziska tento dům. V roce 1912 tu vznikl cukrářský krám, vedle něj malá kavárna, sotva 27 m² a pár stolků, a přes dvůr pekárna. Káva se tak v tomto domě podává už od roku 1912. Hosté sem chodili za dorty, zákusky, kávou a čokoládou se šlehačkou.
 
 Po Rudolfově smrti v roce 1926 vedla podnik jeho žena Franziska, které všichni říkali Fanni, a později dcera Hildegard s manželem Franzem, také cukrářem. Ještě v roce 1940 svítil nad výlohou nápis „Konditorei und Café“. Válka ale provoz ukončila a v létě 1945 musela rodina, stejně jako většina německých obyvatel Podmokel, odejít do Německa. Fanni zemřela v roce 1959 v Kasselu.
 
@@ -34,7 +34,7 @@ But the Winter family’s confectionery tradition in Podmokly (Bodenbach) goes b
 
 His nephew and godson, also named Rudolf Winter, was born in Prunéřov in 1874 and trained as a confectioner in Kadaň. In 1903 he married Franziska Schwarz, a miller’s daughter from near Teplá, and opened his own confectionery in house no. 337 nearby. After his uncle’s death in 1907, he carried the family tradition forward.
 
-Around 1911 Rudolf bought this house. In 1912 he opened a confectionery shop here, with a small café beside it, barely 27 m² with just a few tables, and a bakery across the courtyard. Coffee has been served in this house since 1912. Guests came for cakes, pastries, coffee and hot chocolate with whipped cream.
+In November 1911 Rudolf and Franziska bought this house. In 1912 he opened a confectionery shop here, with a small café beside it, barely 27 m² with just a few tables, and a bakery across the courtyard. Coffee has been served in this house since 1912. Guests came for cakes, pastries, coffee and hot chocolate with whipped cream.
 
 After Rudolf’s death in 1926, the business was run by his wife Franziska, known to everyone as Fanni, and later by their daughter Hildegard and her husband Franz, also a confectioner. As late as 1940, the sign “Konditorei und Café” still shone above the shop window. The war brought the business to an end, and in the summer of 1945 the family, like most of the German-speaking inhabitants of Podmokly, had to leave for Germany. Fanni died in Kassel in 1959.
 
@@ -58,7 +58,7 @@ Die Konditortradition der Familie Winter in Bodenbach (Podmokly) reicht jedoch n
 
 Sein Neffe und Patenkind, ebenfalls Rudolf Winter, wurde 1874 in Brunnersdorf geboren und lernte das Konditorhandwerk in Kaaden. 1903 heiratete er Franziska Schwarz, eine Müllerstochter aus der Gegend von Tepl, und eröffnete eine eigene Konditorei im nahen Haus Nr. 337. Nach dem Tod seines Onkels 1907 führte er die Familientradition weiter.
 
-Um 1911 kaufte Rudolf dieses Haus. 1912 entstanden hier ein Konditoreiladen, daneben ein kleines Café, kaum 27 m² mit wenigen Tischen, und über den Hof eine Backstube. Kaffee wird in diesem Haus also schon seit 1912 serviert. Die Gäste kamen für Torten, Mehlspeisen, Kaffee und Schokolade mit Schlagobers.
+Im November 1911 kauften Rudolf und Franziska dieses Haus. 1912 entstanden hier ein Konditoreiladen, daneben ein kleines Café, kaum 27 m² mit wenigen Tischen, und über den Hof eine Backstube. Kaffee wird in diesem Haus also schon seit 1912 serviert. Die Gäste kamen für Torten, Mehlspeisen, Kaffee und Schokolade mit Schlagobers.
 
 Nach Rudolfs Tod 1926 führte seine Frau Franziska, die alle nur Fanni nannten, das Geschäft weiter, später auch die Tochter Hildegard mit ihrem Mann Franz, ebenfalls Konditor. Noch 1940 leuchtete über dem Schaufenster die Aufschrift „Konditorei und Café“. Der Krieg beendete jedoch den Betrieb, und im Sommer 1945 musste die Familie, wie die meisten deutschen Einwohner von Bodenbach, ihre Heimat verlassen und nach Deutschland gehen. Fanni starb 1959 in Kassel.
 

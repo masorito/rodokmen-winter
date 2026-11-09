@@ -16,7 +16,7 @@ Cukrářská tradice jména Winter je v Podmoklech ale ještě starší. Firma p
 
 Jeho synovec a kmotřenec, rovněž **Rudolf Winter**, se narodil v roce 1874 v Prunéřově v rodině obuvníka a vyučil se cukrářem v Kadani. V lednu 1903 se v Teplé oženil s **Franziskou Schwarzovou**, dcerou mlynáře od Teplé, a mladý pár se hned přestěhoval do Podmokel. V březnu 1903 Rudolf otevřel vlastní cukrářství v nedalekém domě čp. 337. Strýc Rudolf zemřel v roce 1907 a cukrářskou tradici rodu nesl dál synovec.
 
-Kolem roku 1911 Rudolf koupil tento dům, čp. 332. V roce 1912 nechal přestavět přízemí: do ulice vznikl cukrářský krám a vedle něj malá kavárna, za nimi kávová kuchyně a přes dvůr pekárna s pecí. Ve stejném roce požádal o povolení podávat kávu. Káva se tak v tomto domě podává už od roku 1912. Kavárna měla jen kolem 27 m², tedy pár stolků, a návštěvníci sem chodili za dorty, zákusky, kávou a čokoládou se šlehačkou. Ve 20. letech přibyl elektrický šlehač a chladicí zařízení, v tehdejších Podmoklech moderní novinka.
+V listopadu 1911 koupili Rudolf a Franziska tento dům, čp. 332. V roce 1912 nechal přestavět přízemí: do ulice vznikl cukrářský krám a vedle něj malá kavárna, za nimi kávová kuchyně a přes dvůr pekárna s pecí. Ve stejném roce požádal o povolení podávat kávu. Káva se tak v tomto domě podává už od roku 1912. Kavárna měla jen kolem 27 m², tedy pár stolků, a návštěvníci sem chodili za dorty, zákusky, kávou a čokoládou se šlehačkou. Ve 20. letech přibyl elektrický šlehač a chladicí zařízení, v tehdejších Podmoklech moderní novinka.
 
 Rudolf zemřel v roce 1926. Podnik dál vedla jeho žena **Franziska, které všichni říkali Fanni**, a od 30. let i dcera **Hildegard** se svým mužem Franzem, také cukrářem. Ještě na fotografii z povodně v březnu 1940 je nad výlohou vidět nápis „Konditorei und Café“. Za války se ale provoz utlumil a v listopadu 1942 rodina cukrářskou živnost ukončila.
 
@@ -61,7 +61,7 @@ Naše pokoje nad kavárnou nesou jména **Rudolf, Franziska a Hilda**.
 | Původní text | Úprava | Důvod |
 |---|---|---|
 | „založil v roce 1903… vlastní cukrářství“ | ponecháno, doplněno, že tradici jména Winter v Podmoklech začal **strýc Rudolf** a firma uváděla „Gegründet 1865“ | strýc Rudolf (1841–1907) je doložený z matrik; rok 1865 je jen údaj firmy, proto „uváděla“ |
-| „Když se podniku začalo dařit, přesunuli jej sem“ | „Kolem roku 1911 Rudolf koupil tento dům“ | stavební spis: v 8/1910 ještě patřil Sonntagovým, v 1/1912 už Winterovi |
+| „Když se podniku začalo dařit, přesunuli jej sem“ | „V listopadu 1911 koupili Rudolf a Franziska tento dům“ | stavební spis: v 8/1910 ještě patřil Sonntagovým, v 1/1912 už Winterovi |
 | „čp. 333 s pekárnou, na jejímž místě je dnes zahrada“ | „přes dvůr pekárna“, v menu „na místě dnešní zahrady“ | plán z roku 1912 kreslí pekárnu přes dvůr; sčítání 1921 ji vede jako čp. 333. Umístění pod zahradou je vaše informace, nechal jsem ji |
 | „Zpočátku šlo především o pekárnu… V roce 1912 požádal o povolení prodávat kávu“ | 1912 přestavba přízemí na krám a kavárnu, žádost o koncesi | doloženo stavebním spisem a plánem |
 | „pokračovala… Franziska společně s dcerou Hildegard“ | doplněn Hildegardin manžel Franz Elias, cukrář | sňatek 1932, adresář 1934 |
