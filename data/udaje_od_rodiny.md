@@ -119,3 +119,9 @@ Soubor: dokumenty/katastr/pozemkova_kniha_Podmokly_vl1411_cp332.pdf (listy A a B
 - poř. 2 (ad a): došlo 24. 6. 1927, č. d. 1853: podle **odevzdací listiny ze dne 23. 6. 1927, čj. D VII 303/26-14** (pozůstalostní řízení po Rudolfovi, okresní soud Děčín) se vkládá vlastnické právo pro **Františku Winterovou na polovinu** → od 1927 jediná vlastnice celého domu.
 - poř. 3 (ad 1, 2): došlo 30. 4. 1952, č. d. 480: podle prohlášení **Krajského národního výboru v Ústí n. L. o převodu konfiskovaného nemovitého majetku** ze dne 1. 12. 1949, čj. U III-234/49 (čtení čísla nejisté), se vkládá vlastnické právo pro **Československý stát** (správa: místní národní výbor v Děčíně) → konfiskace (dekret č. 108/1945 Sb.).
 **Nové stopy:** pozůstalostní spis D VII 303/26 (Okresní soud Děčín, SOkA Děčín) – soupis pozůstalosti 1926/27 (vybavení cukrárny?); kupní smlouva 27. 11. 1911 ve sbírce listin (TZ 2919/1911) – prodávající, cena; vložka 643 a list C (hypotéky).
+
+## Einfache Melderegisterauskunft, Stadt Kassel (13. 11. 2026, Bürgeramt, J. Baker)
+Soubor: dokumenty/kassel/melderegisterauskunft_2026-11-13.pdf
+- **Gerda Elias (* 19. 1. 1942)** – vedena jako **„Rühlig, Gerda“** (provdaná Rühligová) – **zemřela**; poslední hlášená adresa 34131 Kassel, Rammelsbergstraße 22. Datum úmrtí neuvedeno.
+- **Ingeborg Elias** – **zemřela** (příjmení Elias → zřejmě neprovdaná); poslední hlášená adresa 34117 Kassel, Kastenalsgasse 14. Datum úmrtí neuvedeno.
+- Totožnost ověřena úřadem podle údajů v žádosti (jméno, datum narození Gerdy, Kirchweg 28).
