@@ -135,3 +135,24 @@ Soubor: dokumenty/kassel/melderegisterauskunft_2026-11-13.pdf
 6. **15. 5. 1941, Tz. 881:** podle kvitance a výmazného prohlášení z 18. 3. 1941 výmaz dílčí částky **10 000 K** z pohledávky Russových.
 7. **20. 6. 1941, Tz. 1062:** podle odevzdací listiny **Amtsgericht Marienbad** (Mariánské Lázně) z 22. 10. 1940, 4 V 587/40 – po zemřelém **Eduardu Russovi** přechází jeho podíl na nezletilé děti **Marii Russovou** (5 000 K = 600 RM) a **Heinricha Russe** (5 000 K = 600 RM). Russovi zřejmě z Mariánskolázeňska – blízko Teplé, odkud byla Fanni (příbuzní/známí? – hypotéza).
 8. **23. 2. 1943, TZ 293:** podle výmazní kvitance z 20. 1. 1943 výmaz všech zbývajících pohledávek Russových (Marie Russ 10 000 K, nezl. Marie 5 000 K, nezl. Heinrich 5 000 K) → **dům od 1943 bez dluhů**, dva měsíce po ukončení cukrářské živnosti (20. 11. 1942).
+
+## Pozemková kniha – vložka č. 643 (dříve vl. 39, k. ú. Weiher), Podmokly – kopie KÚ Děčín 11/2026
+Soubory: dokumenty/katastr/pozemkova_kniha_vl643_*.jpg (A s. 613+617, B s. 614, C s. 619–620; další strany C zřejmě chybí)
+**List A – „Haus No. 39 in Weiher“:** parc. 40/1 (→ 634) stavební parcela, obytný dům č. 39 (→ čp. 332); 40/2 (→ 636) budova č. 139 (→ čp. 333), „Wirkwarenfabrik“; 69/15 (pozemek přičleněn k 40/2).
+- 1866: věcné břemeno podle kupní smlouvy z 1. 7. 1866 (text nejistý).
+- 15. 6. 1892: rozdělení parcely 40 na 40/1 a 40/2, přičlenění části parc. 69/15; **poznamenána stavba budovy č. 139 na 40/2** (dvorní budova, pozdější čp. 333).
+- 2. 9. 1892: podle stavebního povolení z 26. 3. 1892 a rozhodnutí vrchního zemského soudu v Praze z 30. 8. 1892 poznamenáno, že **budova č. 139 je „Wirkwarenfabrik“ – továrna na pletené (stávkové) zboží**. → nejpravděpodobnější původ vysokého komína (parní kotel; hypotéza).
+- 22. 3. 1900: podle soupisu domů z 25. 10. 1899 přečíslování: **č. 39 → čp. 332, č. 139 → čp. 333**.
+- 18. 6. 1903: sloučení katastrálních obcí Weiher a Bodenbach v k. ú. Bodenbach; vložka 39 → **643**, parcely 40/1 → 634, 40/2 → 636.
+- 31. 1. 1913: podle kupní smlouvy z 13. 5. 1912 přičleněn k parc. 634 pruh veřejného pozemku 13,69 m² (koupen od obce – srov. stavební spis 1912).
+- 9. 9. 1924: označení „Wirkwarenfabrik“ vymazáno, čp. 333 je nadále **dvorní budova**; parcely přeneseny do nové vložky **1411**; vložka 643 uzavřena 20. 9. 1924.
+**List B – vlastníci:**
+1. 18. 9. 1882 (kupní smlouva 9. 9. 1882): **Franziska Zeischke**
+2. 19. 1. 1887 (odevzdací listina BG Tetschen 1886): **Adam Langecker** ½ a nezl. **Leo Langecker** ½
+3. 9. 4. 1888 (kupní smlouva 4. 4. 1888): **Julius Ernst** ½ a **Theresia Wurzner, ovdovělá Bretschneider** ½; 1889 poznámka: Theresia se 28. 5. 1888 provdala za Ernsta
+4. 23. 11. 1896: **exekuční dražba**
+5. 1. 6. 1897 (příklepová listina 1897): **J. H. Sonntag**
+6. 12. 7. 1902 (odevzdací listina 20. 6. 1902): **Marie Sonntag**
+7. 19. 9. 1908 (odevzdací listina 17. 9. 1908): **Otto Sonntag**
+8. 4. 12. 1911 (kupní smlouva 27. 11. 1911): **Rudolf Winter ½, Franziska Winter ½**
+**List C – staré zástavy (výběr, čtení místy nejisté):** nejstarší zápis 1823 s odkazem na kupní smlouvu z 26. 11. 1806 (dům tedy existoval nejpozději 1806); 1849 výměnek/byt pro Wenzla a Marii Annu Lacka (?); 1851 nezl. Anton Peschke 200 zl.; 1861 c. k. priv. Rakouská společnost státní dráhy (škody z provozu dráhy); 1863 Anton a Apollonia Swobodovi 3 615 zl. 75 kr (z kupní smlouvy 9. 10. 1863), postoupeno Wenzlu a Anně Grafovým; 1876–1883 další pohledávky Grafových a rodiny Zeischke (Friedrich, nezl. Anna a Richard Zeischke), 1878 exekuce.
