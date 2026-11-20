@@ -125,3 +125,13 @@ Soubor: dokumenty/kassel/melderegisterauskunft_2026-11-13.pdf
 - **Gerda Elias (* 19. 1. 1942)** – vedena jako **„Rühlig, Gerda“** (provdaná Rühligová) – **zemřela**; poslední hlášená adresa 34131 Kassel, Rammelsbergstraße 22. Datum úmrtí neuvedeno.
 - **Ingeborg Elias** – **zemřela** (příjmení Elias → zřejmě neprovdaná); poslední hlášená adresa 34117 Kassel, Kastenalsgasse 14. Datum úmrtí neuvedeno.
 - Totožnost ověřena úřadem podle údajů v žádosti (jméno, datum narození Gerdy, Kirchweg 28).
+
+### Pozemková kniha Podmokly vl. 1411 – list C (zatížení), str. 543–544 (kopie KÚ Děčín 16. 11. 2026, řízení PU 725/2026-502)
+1. (přeneseno z vl. 643 v r. 1924) **18. 8. 1861, č. 4843:** na základě reverzu z 6. 7. 1859 zástavní právo pro **c. k. priv. Rakouskou společnost státní dráhy** k zajištění případných nároků na náhradu škod, které by provoz dráhy způsobil na budovách a jiném majetku (dům u železnice – riziko požáru od parních lokomotiv).
+2. **24. 6. 1927, č. d. 1853:** podle odevzdací listiny 23. 6. 1927 (D VII 303/26-14) zástavní právo pro **dědický podíl nezletilé Hildegardy Winterové: 27 712 Kč**, 4½ % úroky, 5½ % z prodlení, vedlejší do 3 000 Kč → Fanni převzala celý dům, dceřin podíl zajištěn hypotékou na domě.
+3. **25. 9. 1930, č. d. 3079:** výmaz poznámky nezletilosti Hildegardy (zletilost 21 let – 14. 6. 1930).
+4. **23. 11. 1936, č. d. 3134:** podle výmazní kvitance ze **4. 1. 1934** výmaz zástavního práva Hildegardy 27 712 Kč (podíl vyplacen/vyrovnán).
+5. tamtéž: podle dlužního úpisu ze **4. 1. 1934** zástavní právo pro **manžele Eduarda a Marii Russovy**, každý ½, **30 000 Kč**, 4 % úroky, 5 % z prodlení, vedlejší do 3 000 Kč (Fanni si půjčila – zřejmě na vyplacení Hildegardy / přestavbu 1934–35; hypotéza).
+6. **15. 5. 1941, Tz. 881:** podle kvitance a výmazného prohlášení z 18. 3. 1941 výmaz dílčí částky **10 000 K** z pohledávky Russových.
+7. **20. 6. 1941, Tz. 1062:** podle odevzdací listiny **Amtsgericht Marienbad** (Mariánské Lázně) z 22. 10. 1940, 4 V 587/40 – po zemřelém **Eduardu Russovi** přechází jeho podíl na nezletilé děti **Marii Russovou** (5 000 K = 600 RM) a **Heinricha Russe** (5 000 K = 600 RM). Russovi zřejmě z Mariánskolázeňska – blízko Teplé, odkud byla Fanni (příbuzní/známí? – hypotéza).
+8. **23. 2. 1943, TZ 293:** podle výmazní kvitance z 20. 1. 1943 výmaz všech zbývajících pohledávek Russových (Marie Russ 10 000 K, nezl. Marie 5 000 K, nezl. Heinrich 5 000 K) → **dům od 1943 bez dluhů**, dva měsíce po ukončení cukrářské živnosti (20. 11. 1942).
