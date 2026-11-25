@@ -168,3 +168,9 @@ Soubory: dokumenty/katastr/pozemkova_kniha_vl643_*.jpg (A s. 613+617, B s. 614, 
 
 ## Kontakt s potomkem (11/2026)
 - Syn Gerdy Rühlig roz. Elias (vnuk Hildegardy, pravnuk Rudolfa a Fanni) odpověděl na dopis majitele kavárny. Potvrzuje: matka Gerda, teta **Inge Elias** a prarodiče už nežijí; z této větve je posledním potomkem (žijící osoba – další údaje neukládáme). Poslal jedinou dochovanou rodinnou fotografii (zatím nedoručena do projektu). Plánuje návštěvu domu na jaře 2027.
+
+## Firma Dr. Block & Co. (zaměstnavatel Franze Eliase st.)
+- Adresář 1934 (MOB, s. 192 a 198 tisku): „Ärztliche Bedarfsartikel- und Gummiwarenerzeugung: **Dr. Block & Co., Schlachthofstraße 576**, Tel. 478“; „Chirurgische Instrumente, Vertrieb: Block Dr. & Co., Schlachthofstraße 576“ → výroba lékařských potřeb a gumového zboží, prodej chirurgických nástrojů. **Stejná adresa (čp. 576) jako byt Franze Eliase st. („Geschäftsführer“) i Franze ml. při sňatku 1932** → rodina bydlela přímo v areálu firmy.
+- Technikmuseum Kassel (tmkkassel.de, Medizintechnik): „Evens & Pistor sowie **Dr. Block & Co.**, die sich **1892** zu den **Vereinigten Verbandsstoff-, Gummiwaren- und Instrumenten-Fabriken** zusammenschlossen“; **1935 koupil Evens & Pistor i Dr. Block & Co. Dr. Rudolf Braun** (Evens & Pistor GmbH, Kassel).
+- Italský katalog Dr. Block & Co. Milano (asi 30. léta; memoriestoriche.it): pobočky **Paříž, Bodenbach, Praha, Budapešť, Londýn; Evens & Pistor, Cassel**.
+- → **Mateřská firma sídlila v Kasselu.** Podmokelský závod byl její pobočka. Proto rodina Eliasových (Franz st. jako vedoucí pobočky) zamířila po odsunu 1945 do **Kasselu** [hypotéza – velmi pravděpodobné; zda Franz st. nebo ml. v Kasselu u firmy pracovali, nedoloženo]. Pozn.: SOkA Děčín uvádí „továrna na kovové zboží“ – adresář 1934 uvádí lékařské potřeby, gumu a nástroje.
