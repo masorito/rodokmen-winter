@@ -165,3 +165,6 @@ Soubory: dokumenty/katastr/pozemkova_kniha_vl643_*.jpg (A s. 613+617, B s. 614, 
 - **1912 (po koupi Winterovými):** Tetschner Sparkasse přebírá pohledávky Vorschussvereinu **10 044 K 85 h + 1 946 K 05 h** a 25. 9. 1912 **nový úvěr 3 009 K 10 h** → Winterovi financovali koupi a přestavbu přes **Tetschner Sparkasse (~15 000 K)**.
 - **9. 9. 1924:** výmaz všech pohledávek Sparkasse (výmazní prohlášení a kvitance srpen 1924) → **dům splacen v srpnu 1924**; zároveň přenos do vl. 1411.
 - Pozn.: věřitel **Johann Russ sen.** (1893) a manželé **Eduard a Marie Russovi** (úvěr Fanni 1934) – stejné příjmení, možná místní podmokelská rodina (dříve předpokládán jen původ z Mariánských Lázní – hypotéza).
+
+## Kontakt s potomkem (11/2026)
+- Syn Gerdy Rühlig roz. Elias (vnuk Hildegardy, pravnuk Rudolfa a Fanni) odpověděl na dopis majitele kavárny. Potvrzuje: matka Gerda, teta **Inge Elias** a prarodiče už nežijí; z této větve je posledním potomkem (žijící osoba – další údaje neukládáme). Poslal jedinou dochovanou rodinnou fotografii (zatím nedoručena do projektu). Plánuje návštěvu domu na jaře 2027.
