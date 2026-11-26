@@ -174,3 +174,14 @@ Soubory: dokumenty/katastr/pozemkova_kniha_vl643_*.jpg (A s. 613+617, B s. 614, 
 - Technikmuseum Kassel (tmkkassel.de, Medizintechnik): „Evens & Pistor sowie **Dr. Block & Co.**, die sich **1892** zu den **Vereinigten Verbandsstoff-, Gummiwaren- und Instrumenten-Fabriken** zusammenschlossen“; **1935 koupil Evens & Pistor i Dr. Block & Co. Dr. Rudolf Braun** (Evens & Pistor GmbH, Kassel).
 - Italský katalog Dr. Block & Co. Milano (asi 30. léta; memoriestoriche.it): pobočky **Paříž, Bodenbach, Praha, Budapešť, Londýn; Evens & Pistor, Cassel**.
 - → **Mateřská firma sídlila v Kasselu.** Podmokelský závod byl její pobočka. Proto rodina Eliasových (Franz st. jako vedoucí pobočky) zamířila po odsunu 1945 do **Kasselu** [hypotéza – velmi pravděpodobné; zda Franz st. nebo ml. v Kasselu u firmy pracovali, nedoloženo]. Pozn.: SOkA Děčín uvádí „továrna na kovové zboží“ – adresář 1934 uvádí lékařské potřeby, gumu a nástroje.
+
+## Sbírka listin pozemkové knihy (skeny od J. Němce, SOkA Děčín, 11/2026)
+Soubory: dokumenty/katastr/listina_1908_*.jpg, listina_1911_kupni_smlouva_s1–4.jpg
+**Odevzdací listina 17. 9. 1908 (BG Tetschen A VII 266/7, TZ 1971/8):** pozůstalost **Marie Sonntag roz. Gerson**, † 19. 5. 1907 Berlin-Charlottenburg bez závěti, odevzdána dědici **Otto Sonntagovi, bankovnímu úředníkovi v Berlíně** (sestra **Linka Salomon roz. Sonntag** se dědictví vzdala). Aktiva 58 772 K 27 h, pasiva 90 370 K 33 h → **předlužení 31 598 K 06 h**. Zápis vlastnictví k domu čp. 332 (vl. 643) a pohledávky 800 K na vl. 127 Webrutz.
+**Kupní smlouva 27. 11. 1911 (TZ 2919/11), sepsal JUDr. Alfred Bergmann, advokát v Podmoklech:**
+- Prodávající **Otto Sonntag, bankovní úředník v Berlíně** (Schöneberg, Martin-Luther-Straße 77); kupující **manželé Rudolf a Fanni Winterovi** v Podmoklech.
+- Předmět: **dům čp. 332 „samt Wirkwarenfabrik Nr. 333“** (i s pletárnou) se vším příslušenstvím, **včetně vestavěného a pevně spojeného zařízení obchodu v přízemí**.
+- **Kupní cena 34 000 K.** Splátky: převzetí dluhů Tetschner Sparkasse 7 417,75 K + 2 500 K a Vorschuss- und Kreditverein Tetschen 10 319,15 K + 1 968,45 K (celkem 22 205,35 K); **závdavek 4 000 K v hotovosti** při podpisu; zbytek **7 794,65 K do konce prosince 1911**.
+- Užitky a břemena od 1. 1. 1912; dům plně pronajatý; prodávající do 3 měsíců na své náklady zruší exekuce (Tetschner Sparkasse, úrazová pojišťovna, c. k. erár) a zajistí **vystěhování přízemí, 1. patra a továrny** k nejbližšímu výpovědnímu termínu.
+- Zástavní právo státní dráhy (o. č. 5) a služebnost přístavby domu č. 38 (o. č. 56) bez předmětu.
+- Podpisy: Podmokly 27. 11. 1911 Rudolf Winter, Fanni Winter; Berlín 2. 12. 1911 Otto Sonntag (ověřil Královský okresní soud Berlin-Schöneberg).
