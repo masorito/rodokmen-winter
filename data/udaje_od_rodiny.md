@@ -122,8 +122,8 @@ Soubor: dokumenty/katastr/pozemkova_kniha_Podmokly_vl1411_cp332.pdf (listy A a B
 
 ## Einfache Melderegisterauskunft, Stadt Kassel (13. 11. 2026, Bürgeramt, J. Baker)
 Soubor: dokumenty/kassel/melderegisterauskunft_2026-11-13.pdf
-- **Gerda Elias (* 19. 1. 1942)** – vedena jako **„Rühlig, Gerda“** (provdaná Rühligová) – **zemřela**; poslední hlášená adresa 34131 Kassel, Rammelsbergstraße 22. Datum úmrtí neuvedeno.
-- **Ingeborg Elias** – **zemřela** (příjmení Elias → zřejmě neprovdaná); poslední hlášená adresa 34117 Kassel, Kastenalsgasse 14. Datum úmrtí neuvedeno.
+- **Gerda Elias (* 19. 1. 1942)** – vedena jako **„Rühlig, Gerda“** (provdaná Rühligová) – **zemřela**. Datum úmrtí neuvedeno.
+- **Ingeborg Elias** – **zemřela** (příjmení Elias → zřejmě neprovdaná). Datum úmrtí neuvedeno.
 - Totožnost ověřena úřadem podle údajů v žádosti (jméno, datum narození Gerdy, Kirchweg 28).
 
 ### Pozemková kniha Podmokly vl. 1411 – list C (zatížení), str. 543–544 (kopie KÚ Děčín 16. 11. 2026, řízení PU 725/2026-502)

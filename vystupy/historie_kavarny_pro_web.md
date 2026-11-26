@@ -38,7 +38,7 @@ Dům čp. 332 po válce převzal stát; v roce 1954 ho úřady popisují jako �
 | 14. 6. 1909 | Narození dcery Hildegard v Podmoklech | **[doloženo]** | sčítání 1921; oddací matrika 1932 |
 | 1880–1910 | Dům čp. 332 (dříve č. 39 ve Weiheru): po požáru 1880 přestavěn na nájemní dům; majitelé Zeischkeovi, pak Sonntagovi; obchod s kůžemi, mýdlárna, dílny na kovové zboží – **cukrárna zde tehdy nebyla** | **[doloženo]** | stavební spis domu čp. 332 |
 | 24. 8. 1910 | Majitelem domu je ještě Otto Sonntag | **[doloženo]** | stavební spis |
-| 27. 11. 1911 | Kupní smlouva: Rudolf a Franziska Winterovi kupují dům čp. 332 a dvorní budovu čp. 333, každý polovinu (vklad 4. 12. 1911) | **[doloženo]** | pozemková kniha Podmokly, vl. 1411 |
+| 27. 11. 1911 | Kupní smlouva: Rudolf a Franziska Winterovi kupují od Otto Sonntaga dům čp. 332 i s pletárnou čp. 333 a zařízením obchodu, každý polovinu, za **34 000 K** (vklad 4. 12. 1911) | **[doloženo]** | pozemková kniha Podmokly, vl. 1411 |
 | 10. 1. 1912 | Rudolf Winter už píše o „svém domě čp. 332“ – žádost o úpravu prodejny a WC | **[doloženo]** | stavební spis |
 | 1912 | Přestavba přízemí na kavárnu („Kaffeeschank“, asi 4,5 × 6,1 m) vedle krámu, za nimi kávová kuchyně, přes dvůr pekárna; 22. 8. 1912 žádost o kavárenskou koncesi | **[doloženo]** | stavební spis; plán „Skizze über die Vergrößerung des Ladens…“ |
 | 1913 | Kolaudace přestavby | **[doloženo]** | stavební spis |

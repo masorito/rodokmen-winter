@@ -28,7 +28,7 @@
 | 1897 | Vydražitel **J. H. Sonntag** [doloženo] | vl. 643, list B |
 | 1899 / 1900 | Nové číslování: č. 39 → **čp. 332**, č. 139 → **čp. 333** [doloženo] | vl. 643, list A |
 | 1900–1911 | V domě obchod s kůžemi (Fiedler 1900), **výrobna mýdel a parfémů** (Kamprath z Lipska, 1901–1903), dílna na acetylenové přístroje (1904), výroba kovového zboží (Klein 1909, Weber 1910–1911). Cukrárna tu ještě není [doloženo] | stavební spis |
-| 1902, 1908 | Dědictví: **Marie Sonntag**, poté **Otto Sonntag** [doloženo] | vl. 643, list B |
+| 1902, 1908 | Dědictví: **Marie Sonntag roz. Gerson**, poté syn **Otto Sonntag**, bankovní úředník v Berlíně (Marie † 1907 Berlín, pozůstalost předlužená o 31 598 K) [doloženo] | vl. 643, list B; odevzdací listina 1908 |
 | 1903 | Mladší **Rudolf Winter** (* 1874) se žení s **Franziskou Schwarzovou** a otevírá cukrářství v nedalekém **čp. 337** [doloženo] | matriky; živnostenský rejstřík |
 | 1907 | Umírá strýc Rudolf Winter st. (čp. 87) [doloženo] | matrika zemřelých Podmokly |
 
@@ -36,7 +36,7 @@
 
 | Rok | Událost | Pramen |
 |---|---|---|
-| **27. 11. 1911** | **Kupní smlouva: Rudolf a Franziska Winterovi kupují dům a dvorní budovu, každý ½** (vklad 4. 12. 1911) [doloženo] | vl. 643 a 1411, list B |
+| **27. 11. 1911** | **Kupní smlouva: Rudolf a Franziska Winterovi kupují od Otto Sonntaga (bankovní úředník v Berlíně) dům čp. 332 „i s pletárnou čp. 333“ a se zařízením obchodu v přízemí, každý ½, za 34 000 K** (převzaté dluhy 22 205 K, závdavek 4 000 K, doplatek 7 795 K do konce 1911). Dům plně pronajatý, prodávající musí vystěhovat přízemí, 1. patro a továrnu (vklad 4. 12. 1911, TZ 2919/11) [doloženo] | kupní smlouva (sbírka listin); vl. 643, list B |
 | 1912 | Přestavba přízemí: **cukrářský krám a kavárna (Kaffeeschank, asi 27 m²)**, kávová kuchyně, WC. Ve dvoře **pekárna** v čp. 333. 22. 8. 1912 žádost o kavárenskou koncesi. Od obce dokoupen pruh pozemku 13,69 m² [doloženo] | stavební spis; plán; vl. 643, list A |
 | 1912 | Financování přes **Tetschner Sparkasse** (převzetí dluhů 10 044 K a 1 946 K, nový úvěr 3 009 K) [doloženo] | vl. 643, list C |
 | 1913 | Kolaudace přestavby [doloženo] | stavební spis |
@@ -76,6 +76,5 @@ Zeischke (do 1887) → Langecker (1887) → Ernst / Wurzner (1888) → dražba 1
 
 ### Otevřené otázky
 - Kdy a pro koho byl postaven vysoký komín? Nejpravděpodobněji pro pletárnu (1892), ale nedoloženo.
-- Od koho přesně a za kolik Winterovi dům koupili (kupní smlouva 27. 11. 1911 ve sbírce listin)?
 - Kdo byli manželé Russovi a proč Fanni půjčili? Příbuzní, nebo známí?
 - Další vlastníci po roce 1952 (pozemková kniha byla uzavřena zákonem č. 22/1964 Sb., dál vede katastr nemovitostí).
