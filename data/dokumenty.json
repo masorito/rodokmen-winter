@@ -1,1 +1,12 @@
-[]
+[
+ {"img": "foto_1940_povoden", "popis": "Povodeň na Labi 18. 3. 1940 – vlevo nad výlohou nápis „Konditorei und Café“ (čp. 332), vedle pletené zboží Schubert a Hotel Touristen. Jediný známý snímek kavárny za Winterových.", "osoby": [3, 1]},
+ {"img": "plan_1912_prizemi", "popis": "Plán přestavby přízemí pro „Herrn R. Winter, Zuckerbäcker in Bodenbach Nr. 332“ (asi 1912): krám, kavárna (Kaffeeschank, asi 27 m²), kávová kuchyně, přes dvůr pekárna.", "osoby": [2]},
+ {"img": "plan_1912_fasada", "popis": "Plán uliční fasády domu čp. 332 (asi 1912) se dvěma výkladními okny – krám a kavárna.", "osoby": [2]},
+ {"img": "listina_kupni_smlouva_1911", "popis": "Kupní smlouva z 27. 11. 1911: Otto Sonntag prodává manželům Rudolfu a Fanni Winterovým dům čp. 332 i s pletárnou čp. 333 za 34 000 K (sbírka listin pozemkové knihy).", "osoby": [2, 3]},
+ {"img": "foto_pekarna", "popis": "Cukrářská dílna – mistr s knírem a pět učňů (asi 1905–1914). Snímek se našel v domě čp. 332; mistr je možná Rudolf Winter (nedoloženo).", "osoby": [2]},
+ {"img": "foto_konvicka", "popis": "Konvička na smetanu (2 cl) s vyraženým „RUDOLF WINTER“, hotelové stříbro Dr. Löb & Co., Norimberk – část souboru ukrytého ve studni na zahradě, nejspíš v roce 1945.", "osoby": [3, 1]},
+ {"img": "foto_hotel_touristen", "popis": "Hotel Touristen u železničního tunelu pod Pastýřskou stěnou (1918–1938), dva domy od kavárny Winter.", "osoby": []},
+ {"img": "foto_1875_podmokly", "popis": "Podmokly pod Pastýřskou stěnou kolem roku 1875 – domy ve Weiheru, kde měl cukrárnu strýc Rudolf Winter starší.", "osoby": []},
+ {"img": "foto_mototechna", "popis": "Dům čp. 332 po válce s prodejnou Mototechna (asi 1970–1985).", "osoby": []},
+ {"img": "foto_srovnani", "popis": "Řada domů pod skálou dnes a kolem roku 1900; dům čp. 332 je ten s trojúhelníkovým štítem.", "osoby": []}
+]

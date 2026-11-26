@@ -22,9 +22,12 @@
   "foto_popis": ""
  },
  "pribeh": {
-  "menu": "",
+  "menu": "Příběh Winterových",
   "rod": 8,
-  "tlacitko": ""
+  "tlacitko": "Přečíst příběh Winterových"
  },
- "zajimavosti_na_uvodu": []
+ "zajimavosti_na_uvodu": [],
+ "citlive_schvaleno": [
+  "Fanni splatila poslední dluh"
+ ]
 }
